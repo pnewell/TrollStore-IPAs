@@ -2,8 +2,8 @@
   "name": "swaggyP36000 IPA Library",
   "identifier": "xyz.hieuddo.ipalibrary",
   "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
-  "apps": {
-    "com.atebits.Tweetie2": {
+  "apps": [
+    {
       "name": "BHX",
       "bundleIdentifier": "com.atebits.Tweetie2",
       "developerName": "BandarHL / AppDB / Manpreet Singh @thisismanpreeets / DPixel / CydiaAbdullah / zxcvbn's tweaked IPAs / TrollStore AppsUpdates / nowesr1",
@@ -544,7 +544,7 @@
         }
       ]
     },
-    "com.fitbod": {
+    {
       "name": "FitbodElite",
       "bundleIdentifier": "com.fitbod",
       "developerName": "Lãng Khách🇻🇳",
@@ -588,7 +588,7 @@
       ],
       "localizedDescription": "Fitbod's AI builds and fine-tunes highly personalized workout plans, ensuring progress with each training session. A user requested it so here it is.\nLast updated: 05-22-2024\nStatus: ✅ ⭐"
     },
-    "com.spotify.client": {
+    {
       "name": "EeveeSpotify",
       "bundleIdentifier": "com.spotify.client",
       "developerName": "whoeevee / asdfzxcvbn / EeveeSpotify IPAs",
@@ -646,7 +646,7 @@
       ],
       "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: I'll only host IPAs that are stable and work well on my end. Feel free to check their repo for updates. To fix widgets, install Spotify from the App Store on top of Eevee then proceed to force install Eevee over Spotify. Please refrain from opening issues here.\nLast updated: 05-21-2024\nStatus: ✅ ⭐ 👍"
     },
-    "com.hammerandchisel.discord": {
+    {
       "name": "Pyoncord",
       "bundleIdentifier": "com.hammerandchisel.discord",
       "developerName": "pyoncord / zxcvbn's tweaked IPAs",
@@ -690,7 +690,7 @@
       ],
       "localizedDescription": "Forked from the famous Vendetta tweak, this new tweak injected into discord can be used as a possible alternative of Vendetta. A user requested it so here it is.\nLast updated: 05-21-2024\nStatus: ✅ 👍"
     },
-    "wiki.qaq.trapp": {
+    {
       "name": "TrollRecorder",
       "bundleIdentifier": "wiki.qaq.trapp",
       "developerName": "Lessica / TrollRecorder",
@@ -853,7 +853,7 @@
       ],
       "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5€ license.\nLast updated: 05-21-2024\nStatus: ✅"
     },
-    "tv.twitch": {
+    {
       "name": "TwitchPlus",
       "bundleIdentifier": "tv.twitch",
       "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
@@ -1198,7 +1198,7 @@
       ],
       "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 05-21-2024\nStatus: ✅ 👍 ⭐"
     },
-    "com.facebook.Facebook": {
+    {
       "name": "FacebookWolf",
       "bundleIdentifier": "com.facebook.Facebook",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement ",
@@ -1627,7 +1627,7 @@
       ],
       "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 05-20-2024\nStatus: ✅ 👍"
     },
-    "com.otraku.app": {
+    {
       "name": "Otraku",
       "bundleIdentifier": "com.otraku.app",
       "developerName": "lotusprey",
@@ -1713,7 +1713,7 @@
       ],
       "localizedDescription": "Unofficial AniList viewer, much better UI and stats than MyAniList or others on the App Store\nLast updated: 05-20-2024\nStatus: ✅"
     },
-    "com.streamer.ios": {
+    {
       "name": "Streamer",
       "bundleIdentifier": "com.streamer.ios",
       "developerName": "StreamerApp",
@@ -1778,7 +1778,7 @@
       ],
       "localizedDescription": "The app for iOS and tvOS allows you to stream movies and TV shows from various sources. It supports Chromecast for streaming to FireTV and Chromecast devices, offers multi-language subtitles, and a favorites feature for quick access.\nLast updated: 05-20-2024\nStatus: ✅"
     },
-    "com.nianticlabs.pokemongo": {
+    {
       "name": "iPoGo",
       "bundleIdentifier": "com.nianticlabs.pokemongo",
       "developerName": "https://ipogo.app",
@@ -2053,7 +2053,7 @@
       ],
       "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 05-18-2024\nStatus: ✅"
     },
-    "com.kodjodevf.mangayomi": {
+    {
       "name": "Mangayomi",
       "bundleIdentifier": "com.kodjodevf.mangayomi",
       "developerName": "kodjodevf",
@@ -2188,7 +2188,7 @@
       ],
       "localizedDescription": "From the GitHub: Mangayomi is free an open source manga reader and anime streaming cross-plateform app inspired by Tachiyomi made with Flutter. It allows users to read manga and watch anime from a variety of sources.\nLast updated: 05-18-2024\nStatus: ✅"
     },
-    "AlexisBarreyat.BeReal": {
+    {
       "name": "BeRealBea",
       "bundleIdentifier": "AlexisBarreyat.BeReal",
       "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
@@ -2491,7 +2491,7 @@
       ],
       "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 05-17-2024\nStatus: ✅ 👍 ⭐"
     },
-    "com.firecore.infuse": {
+    {
       "name": "InfusePro",
       "bundleIdentifier": "com.firecore.infuse",
       "developerName": "Suffuse-Team / InfusePlus",
@@ -2689,7 +2689,7 @@
       ],
       "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here\nLast updated: 05-17-2024\nStatus: ✅ 👍"
     },
-    "com.burbn.instagram": {
+    {
       "name": "InstagramNyx",
       "bundleIdentifier": "com.burbn.instagram",
       "developerName": "Ed0.ipa (IPA NOT CRACKED) / Sezo / Clement  / nowesr1",
@@ -2915,7 +2915,7 @@
       ],
       "localizedDescription": "Not cracked. 40+ advanced features (premium), adaptive activity status, personalized interface, image and video downloads, custom albums, and feed customizations. Access the Nyx menu easily by shaking your device or pressing and holding the Home Button. Nyx prioritizes user-friendliness and privacy, ensuring no storage or sale of personal data to third parties. Even if you choose not to make a purchase, you can still access several free features that do not necessitate creating an account.\nLast updated: 05-17-2024\nStatus: ✅"
     },
-    "net.whatsapp.WhatsApp": {
+    {
       "name": "Watusi3",
       "bundleIdentifier": "net.whatsapp.WhatsApp",
       "developerName": "CyPwn IPA Library / DPixel / MeemNon / zxcvbn’s tweaked IPAs / FouadRaheb",
@@ -3358,7 +3358,7 @@
       ],
       "localizedDescription": "WhatsApp, injected with Watusi v1.2.32, Stalky v4.1.26, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore. Note: Connection confirmation and \"unofficial\" message issue have been fixed.\nLast updated: 05-17-2024\nStatus: ✅"
     },
-    "com.alightcreative.motion": {
+    {
       "name": "AlightMotionPremium",
       "bundleIdentifier": "com.alightcreative.motion",
       "developerName": "iOS Tutorials + App Cracks",
@@ -3374,7 +3374,7 @@
       ],
       "localizedDescription": "Professional motion design app. A user requested it so here it is.\nLast updated: 05-16-2024\nStatus: ✅"
     },
-    "jp.ne.ibis.ibisPaintX": {
+    {
       "name": "ibisPaintPrime",
       "bundleIdentifier": "jp.ne.ibis.ibisPaintX",
       "developerName": "zxcvbn’s tweaked IPAs",
@@ -3390,7 +3390,7 @@
       ],
       "localizedDescription": "Popular drawing app. A user requested it so here it is.\nLast updated: 05-16-2024\nStatus: ✅"
     },
-    "com.lightricks.Facetune2": {
+    {
       "name": "FacetunePro",
       "bundleIdentifier": "com.lightricks.Facetune2",
       "developerName": "AppDB / binnichtaktiv's iPA Library / AIpalux / Manpreet Singh @thisismanpreets",
@@ -3462,7 +3462,7 @@
       ],
       "localizedDescription": "A photo/video editing app used to edit, enhance, and retouch photos.\nLast updated: 05-15-2024\nStatus: ✅"
     },
-    "com.goodnotesapp.x": {
+    {
       "name": "Goodnotes6",
       "bundleIdentifier": "com.goodnotesapp.x",
       "developerName": "ipalibrary.me / riadipa / Lãng Khách🇻🇳",
@@ -3527,7 +3527,7 @@
       ],
       "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 05-15-2024\nStatus: ✅"
     },
-    "com.courtois.PerfectIPTVn": {
+    {
       "name": "IPTVPro",
       "bundleIdentifier": "com.courtois.PerfectIPTVn",
       "developerName": "Paisseon",
@@ -3543,7 +3543,7 @@
       ],
       "localizedDescription": "Injected with Satella. Another IPTV streamer app. A user requested it so here it is.\nLast updated: 05-15-2024\nStatus: ✅"
     },
-    "com.iteration-mobile.radarbot-free-ww": {
+    {
       "name": "RadarbotPro",
       "bundleIdentifier": "com.iteration-mobile.radarbot-free-ww",
       "developerName": "MeemNon / binnichtaktiv's iPA Library",
@@ -3615,7 +3615,7 @@
       ],
       "localizedDescription": "App description here. GPS navigator specialized in radars, injected with Pro.\nLast updated: 05-15-2024\nStatus: ✅"
     },
-    "viral.vision.vids": {
+    {
       "name": "VidsAIPro",
       "bundleIdentifier": "viral.vision.vids",
       "developerName": "binnichtaktiv's iPA Library",
@@ -3666,7 +3666,7 @@
       ],
       "localizedDescription": "Merge your videos and pictures into a stylish video featuring smooth transitions, artistic effects, and filters, all synchronized to the rhythm of popular music in just a few minutes. Ideal for TikTok and Instagram Reels. A user requested it so here it is. Note: AI style feature is unavailable.\nLast updated: 05-15-2024\nStatus: ✅"
     },
-    "co.visualsupply.cam": {
+    {
       "name": "VSCOPremium",
       "bundleIdentifier": "co.visualsupply.cam",
       "developerName": "IPA Fire / binnichtaktiv's iPA Library / Manpreet Singh @thisismanpreets",
@@ -3752,7 +3752,7 @@
       ],
       "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 05-15-2024\nStatus: ✅"
     },
-    "com.musixmatch.lyrics": {
+    {
       "name": "MusixmatchPremium",
       "bundleIdentifier": "com.musixmatch.lyrics",
       "developerName": "binnichtaktiv's iPA Library",
@@ -3768,7 +3768,7 @@
       ],
       "localizedDescription": "Musixmatch offers the world's largest collection of synchronized song lyrics, complete with multilingual translations for almost all songs. A user requested it so here it is.\nLast updated: 05-14-2024\nStatus: ✅ ⭐"
     },
-    "com.adobe.Adobe-Reader": {
+    {
       "name": "AdobeAcrobatReaderPremium",
       "bundleIdentifier": "com.adobe.Adobe-Reader",
       "developerName": "binnichtaktiv's iPA Library",
@@ -3798,7 +3798,7 @@
       ],
       "localizedDescription": "App to see, share, annotate, comment on, and sign PDF files. A user requested it so here it is.\nLast updated: 05-13-2024\nStatus: ✅ 👍"
     },
-    "co.appnation.geniechat.watchapp": {
+    {
       "name": "AIChatbotGeniePro",
       "bundleIdentifier": "co.appnation.geniechat.watchapp",
       "developerName": "ipalibrary.me / ArianaMinajj / CyPwn IPA Library",
@@ -3884,7 +3884,7 @@
       ],
       "localizedDescription": "I found that AI Chat Smith did not meet my expectations in terms of performance. Therefore, I am uploading Genie as this application appears to be more promising than the 2 below.\nLast updated: 05-13-2024\nStatus: ✅ 👍"
     },
-    "xyz.skitty.Aidoku": {
+    {
       "name": "Aidoku",
       "bundleIdentifier": "xyz.skitty.Aidoku",
       "developerName": "Aidoku",
@@ -3991,7 +3991,7 @@
       ],
       "localizedDescription": "Webtoon/manga browser\nLast updated: 05-13-2024\nStatus: ✅"
     },
-    "com.alohabrowser.alohabrowser": {
+    {
       "name": "AlohaBrowserPremium",
       "bundleIdentifier": "com.alohabrowser.alohabrowser",
       "developerName": "Manpreet Singh @thisismanpreeets",
@@ -4049,7 +4049,7 @@
       ],
       "localizedDescription": "A private browser, providing unmatched privacy and security for all your browsing needs. Note: VPN also works.\nLast updated: 05-13-2024\nStatus: ✅ ⭐"
     },
-    "com.commsource.BeautyPlus": {
+    {
       "name": "BeautyPlusPremium",
       "bundleIdentifier": "com.commsource.BeautyPlus",
       "developerName": "Manpreet Singh @thisismanpreeets",
@@ -4086,7 +4086,7 @@
       ],
       "localizedDescription": "Another AI Photo Editor injected with Premium. A user requested it so here it is.\nLast updated: 05-13-2024\nStatus: ✅"
     },
-    "com.abishkking.maleworkout.watchkitapp": {
+    {
       "name": "HomeWorkoutPremium",
       "bundleIdentifier": "com.abishkking.maleworkout.watchkitapp",
       "developerName": "binnichtaktiv's iPA Library",
@@ -4130,7 +4130,7 @@
       ],
       "localizedDescription": "Injeced with satella. App provides expertly designed fitness plans and workouts for all levels, from beginners to experts. A user requested it so here it is.\nLast updated: 05-13-2024\nStatus: ✅"
     },
-    "com.meitu.mtxx": {
+    {
       "name": "MeituPlusPlus",
       "bundleIdentifier": "com.meitu.mtxx",
       "developerName": "iApps / iOS Tutorials + App Cracks",
@@ -4244,7 +4244,7 @@
       ],
       "localizedDescription": "Meitu, a photo & AI Art generator, cracked for premium features. Note: You must log in first and even if it indicates you're not VIP, features are still working. (VIP+ remains inaccessible) + Despite Meitu being a complete photo editing tool it gathers a LOT of data!! Consider this carefully before deciding to use it.\nLast updated: 05-13-2024\nStatus: ✅ ⭐"
     },
-    "com.picsart.studio": {
+    {
       "name": "PicsArtPlusPlus",
       "bundleIdentifier": "com.picsart.studio",
       "developerName": "zxcvbn’s tweaked IPAs / AppDB / CyPwn IPA Library / DPixel / Manpreet Singh @thisismanpreets / Qamislo - Apps / binnichtaktiv's iPA Library",
@@ -4645,7 +4645,7 @@
       ],
       "localizedDescription": "PicsArt with premium features enbled.\nLast updated: 05-13-2024\nStatus: ✅ 👍 ⭐"
     },
-    "co.vulcanlabs.moodtracker": {
+    {
       "name": "AIChatSmithPremium",
       "bundleIdentifier": "co.vulcanlabs.moodtracker",
       "developerName": "تطبيقات IPA 🌙 / DPixel",
@@ -4794,7 +4794,7 @@
       ],
       "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 05-12-2024\nStatus: ✅"
     },
-    "se.resenatverket.FlightRadar24-Free.watchkitapp": {
+    {
       "name": "Flightradar24Gold",
       "bundleIdentifier": "se.resenatverket.FlightRadar24-Free.watchkitapp",
       "developerName": "binnichtaktiv's iPA Library / AppDB",
@@ -4831,7 +4831,7 @@
       ],
       "localizedDescription": "Injected with Gold. Flightradar24 stands as the leading live flight tracker, displaying air traffic as it happens in real-time. Note: You must log in first to use Gold features!\nLast updated: 05-11-2024\nStatus: ✅ ⭐"
     },
-    "com.memrise.ios.memrisecompanion": {
+    {
       "name": "MemrisePremium",
       "bundleIdentifier": "com.memrise.ios.memrisecompanion",
       "developerName": "AppDB / Strejda603 / Jimbos iPA Library / DPixel",
@@ -4917,7 +4917,7 @@
       ],
       "localizedDescription": "Injected with Premium. Unlike other language learning apps, Memrise is built around mastering specific conversations, allowing you to choose the topics that matter most to you and confidently engage in real-life dialogues.\nLast updated: 05-11-2024\nStatus: ✅"
     },
-    "com.readdle.smartemail": {
+    {
       "name": "SparkPremium",
       "bundleIdentifier": "com.readdle.smartemail",
       "developerName": "zxcvbn's tweaked IPAs",
@@ -4947,7 +4947,7 @@
       ],
       "localizedDescription": "Spark, with premium features (except AI) and built-in a feature to hide update notifications. Note: To obtain the latest version, first install it through TrollStore then reinstall it via the AppStore. For some reason, this process keeps the tweak working.\nLast updated: 05-11-2024\nStatus: ✅ 👍 ⭐"
     },
-    "com.iaftt.flightplusfree": {
+    {
       "name": "FlightTrackerPremium",
       "bundleIdentifier": "com.iaftt.flightplusfree",
       "developerName": "iOS Tutorials + App Cracks",
@@ -4977,7 +4977,7 @@
       ],
       "localizedDescription": "Flight tracker combines the features of Flighty and Flightradar24, offering both real-time air traffic information and boarding details.\nLast updated: 05-10-2024\nStatus: ✅"
     },
-    "yuca.scanner": {
+    {
       "name": "YukaPremium",
       "bundleIdentifier": "yuca.scanner",
       "developerName": "iOS Tutorials + App Cracks",
@@ -5007,7 +5007,7 @@
       ],
       "localizedDescription": "App that let you scan the barcodes of food and personal care items to instantly learn about their health impacts. It provides a rating and detailed information for a thorough analysis of each product. Note: The search feature is currently not working and a premium subscription popup appears every time the app is opened which may be somewhat bothersome.\nLast updated: 05-09-2024\nStatus: ✅ 👍 ⭐"
     },
-    "com.outerspaceapps.itranslate": {
+    {
       "name": "iTranslatePro",
       "bundleIdentifier": "com.outerspaceapps.itranslate",
       "developerName": "iOS Tutorials + App Cracks",
@@ -5037,7 +5037,7 @@
       ],
       "localizedDescription": "Injected with Pro. Translation and dictionary app making it easy to break language barriers. It allows for easy translation of text, websites, objects, and voice conversations in over 100 languages. Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should grant access to other features like iTranslate keyboard.\nLast updated: 05-07-2024\nStatus: ✅ 👍"
     },
-    "com.locket.Locket": {
+    {
       "name": "LocketWidgetGold",
       "bundleIdentifier": "com.locket.Locket",
       "developerName": "ipalibrary.me",
@@ -5081,7 +5081,7 @@
       ],
       "localizedDescription": "Injected with Gold. Widget app that displays real-time photos from your closest friends directly on your Home Screen. Every time you unlock your phone, you and your best friends will discover new photos from one another.\nLast updated: 05-07-2024\nStatus: ✅ ⭐"
     },
-    "com.sbs.diet": {
+    {
       "name": "MacroFactorPremium",
       "bundleIdentifier": "com.sbs.diet",
       "developerName": "Lãng Khách🇻🇳",
@@ -5104,7 +5104,7 @@
       ],
       "localizedDescription": "App that leverages advanced algorithms and solid nutrition science to achieve sustainable diet results, personalizing your plan to adapt to metabolic changes. A user requested it so here it is.\nLast updated: 05-07-2024\nStatus: ✅ ⭐"
     },
-    "com.myfitnesspal.mfp": {
+    {
       "name": "MyFitnessPalPremium",
       "bundleIdentifier": "com.myfitnesspal.mfp",
       "developerName": "ipalibrary.me",
@@ -5141,7 +5141,7 @@
       ],
       "localizedDescription": "Monitor your journey towards achieving your nutritional, hydration, fitness, and weight loss objectives with MyFitnessPal. This comprehensive health and food tracking application serves as your personal nutritionist, meal strategist, and food journal, available to you whenever you need it. A user requested it so here it is.\nLast updated: 05-07-2024\nStatus: ✅ ⭐"
     },
-    "app.nicegram": {
+    {
       "name": "Nicegram",
       "bundleIdentifier": "app.nicegram",
       "developerName": "CyPwn IPA Library / AppDB / IPA Library / MeemNon / DPixel / zxcvbn’s tweaked IPAs / iOS Tutorials + App Cracks",
@@ -5325,7 +5325,7 @@
       ],
       "localizedDescription": "Nicegram, cracked for premium features (including having the translate button next to messages in chats). In order to unlock Premium, click on \"Assistant\" at the bottom, then on \"Unleash your Nicegram perks\" and finally click on \"start\" at the bottom. Note: I highly recommend switching to Swiftgram.\nLast updated: 05-06-2024\nStatus: ✅"
     },
-    "com.skysoft.removalfree": {
+    {
       "name": "ObjectRemoval",
       "bundleIdentifier": "com.skysoft.removalfree",
       "developerName": "FayezUpdates",
@@ -5376,7 +5376,7 @@
       ],
       "localizedDescription": "Injected with Premium. App description here. App lets you remove objects from images using AI (more or less working). All features should be working, just ignore the premium sections.\nLast updated: 05-06-2024\nStatus: ✅"
     },
-    "droom.sleepIfUCanFree": {
+    {
       "name": "AlarmyPremium",
       "bundleIdentifier": "droom.sleepIfUCanFree",
       "developerName": "DPixel",
@@ -5420,7 +5420,7 @@
       ],
       "localizedDescription": "Alarmy injected with premium. A user requested it so here it is.\nLast updated: 05-05-2024\nStatus: ✅ ⭐"
     },
-    "com.bpmhealth.boostfitness": {
+    {
       "name": "BoostcampPro",
       "bundleIdentifier": "com.bpmhealth.boostfitness",
       "developerName": "iOS Tutorials + App Cracks",
@@ -5443,7 +5443,7 @@
       ],
       "localizedDescription": "Fitness app designed for gym aficionados. It offers professionally-crafted workout plans, allows users to create personalized multi-week exercise schedules, and enables workout tracking. A user requested it so here it is.\nLast updated: 05-05-2024\nStatus: ✅"
     },
-    "com.strava.stravaride": {
+    {
       "name": "StravaPremium",
       "bundleIdentifier": "com.strava.stravaride",
       "developerName": "Dell",
@@ -5459,7 +5459,7 @@
       ],
       "localizedDescription": "App that transforms fitness tracking into a social hub, enabling you to record activities, discover routes, build community support, train smarter, ensure safety, sync devices, join challenges, and share real efforts—all in one place. A user requested it so here it is.\nLast updated: 05-05-2024\nStatus: ✅ ⭐"
     },
-    "com.sublime.capture": {
+    {
       "name": "OniriPremium",
       "bundleIdentifier": "com.sublime.capture",
       "developerName": "Lãng Khách🇻🇳",
@@ -5475,7 +5475,7 @@
       ],
       "localizedDescription": "App for keeping a dream journal, analyzing your dreams, and having lucid dreams.\nLast updated: 04-05-2024\nStatus: ✅ ⭐"
     },
-    "com.waterminder.waterminder.watchkitapp": {
+    {
       "name": "WaterMinderPremium",
       "bundleIdentifier": "com.waterminder.waterminder.watchkitapp",
       "developerName": "iOS Tutorials + App Cracks",
@@ -5526,7 +5526,7 @@
       ],
       "localizedDescription": "An easy and intuitive app to track your water intake. Based on your body weight (or your personal goal), WaterMinder reminds you to drink water to meet your daily goals. Note: Begin by installing it from the App Store then proceed to force install the TrollStore version. This should fix any issues like missing app icons, etc., that resulted from the decrypted IPA file.\nLast updated: 05-04-2024\nStatus: ✅ 👍 ⭐"
     },
-    "com.benricemccarthy.ketchup": {
+    {
       "name": "KetchupPlus",
       "bundleIdentifier": "com.benricemccarthy.ketchup",
       "developerName": "Lãng Khách🇻🇳",
@@ -5542,7 +5542,7 @@
       ],
       "localizedDescription": "Encyclopaedia app for Pokemon. A user requested it so here it is.\nLast updated: 05-03-2024\nStatus: ✅"
     },
-    "chaoge.ChargeLimiter": {
+    {
       "name": "ChargeLimiter",
       "bundleIdentifier": "chaoge.ChargeLimiter",
       "developerName": "lich4",
@@ -5593,7 +5593,7 @@
       ],
       "localizedDescription": "This app takes inspiration from MacOS version designed to avoid overcharging iPhones/iPads over extended periods, which can harm the battery. It allows users to set maximum and minimum charging capacities and a maximum temperature threshold for charging. Once configured, the daemon continuously monitors the battery's capacity.\nLast updated: 05-02-2024\nStatus: ✅"
     },
-    "com.charliemonroe.Downie": {
+    {
       "name": "Downie",
       "bundleIdentifier": "com.charliemonroe.Downie",
       "developerName": "TestFlight",
@@ -5616,7 +5616,7 @@
       ],
       "localizedDescription": "A simple, powerful, and fast youtube video downloader now for iOS. Note: Beta version decrypted from TestFlight: Only compatible with iOS17 and later.\nLast updated: 05-02-2024\nStatus: ✅ 👍"
     },
-    "org.tranquilli.Earthquake": {
+    {
       "name": "EarthquakePro",
       "bundleIdentifier": "org.tranquilli.Earthquake",
       "developerName": "DPixel",
@@ -5632,7 +5632,7 @@
       ],
       "localizedDescription": "Access the latest global data from multiple sources and stay informed with push notification alerts. Note: Install this version, configure notifications to your liking, then proceed to install the AppStore version over it. To bypass the \"Integrity checks failed\" message, press \"OK\" then quickly return to the Home Screen without closing the app. (Only needed to use latest versions and widgets)\nLast updated: 05-02-2024\nStatus: ✅ ⭐ 👍"
     },
-    "com.tijo.opener.Opener": {
+    {
       "name": "Opener",
       "bundleIdentifier": "com.tijo.opener.Opener",
       "developerName": "CyPwn IPA library",
@@ -5683,7 +5683,7 @@
       ],
       "localizedDescription": "Redirects certain links to their respective apps. Useful for when certain links don't automatically open in some TrollStore-installed apps.\nLast updated: 05-01-2024\nStatus: ✅"
     },
-    "com.andyworks.weather": {
+    {
       "name": "WeatherSuper",
       "bundleIdentifier": "com.andyworks.weather",
       "developerName": "Lãng Khách🇻🇳 / Crack Hub",
@@ -5699,7 +5699,7 @@
       ],
       "localizedDescription": "Another (unique design) local forecast and live weather app. A user requested it so here it is.\nLast updated: 05-01-2024\nStatus: ✅ ⭐"
     },
-    "com.leapfitness.fasting": {
+    {
       "name": "FastingPremium",
       "bundleIdentifier": "com.leapfitness.fasting",
       "developerName": "Paisseon",
@@ -5715,7 +5715,7 @@
       ],
       "localizedDescription": "Intuitive fasting tracking app to guide you to a self-determined life with healthy habits\nLast updated: 04-30-2024\nStatus: ✅ ⭐"
     },
-    "com.leshko.flap": {
+    {
       "name": "FlacboxPro",
       "bundleIdentifier": "com.leshko.flap",
       "developerName": "iApps",
@@ -5738,7 +5738,7 @@
       ],
       "localizedDescription": "Flacbox serves as a high-resolution music player featuring an audio equalizer and bass booster. This app allows you to play nearly any type of audio file on your iPhone/iPad, enabling you to enjoy music in its lossless format. A user requested it so here it is.\nLast updated: 04-29-2024\nStatus: ✅"
     },
-    "com.simpleinnovation.diary": {
+    {
       "name": "MyDiaryPremium",
       "bundleIdentifier": "com.simpleinnovation.diary",
       "developerName": "Lãng Khách🇻🇳",
@@ -5754,7 +5754,7 @@
       ],
       "localizedDescription": "App with a mood tracker, designed for recording experiences, exploring emotions, and adding photos, ensuring your privacy and security.\nLast updated: 04-29-2024\nStatus: ✅ ⭐"
     },
-    "com.microblink.PhotoMath": {
+    {
       "name": "PhotomathPlus",
       "bundleIdentifier": "com.microblink.PhotoMath",
       "developerName": "DPixel / IPA Fire / zxcvbn’s tweaked IPAs",
@@ -5903,7 +5903,7 @@
       ],
       "localizedDescription": "Photomath, with pro features unlocked\nLast updated: 04-29-2024\nStatus: ✅"
     },
-    "com.Matter.MatterApp": {
+    {
       "name": "MatterPremium",
       "bundleIdentifier": "com.Matter.MatterApp",
       "developerName": "Lãng Khách🇻🇳",
@@ -5919,7 +5919,7 @@
       ],
       "localizedDescription": "App that organizes articles, newsletters, and more in one spot, offering advanced tools like text-to-speech for a better reading experience.\nLast updated: 04-28-2024\nStatus: ✅ ⭐"
     },
-    "com.zerone.hidesktop": {
+    {
       "name": "iScreenVIP",
       "bundleIdentifier": "com.zerone.hidesktop",
       "developerName": "Crack Hub",
@@ -5935,7 +5935,7 @@
       ],
       "localizedDescription": "App with trendy widgets for your lock and home screens, including creative StandBy and interactive options with over 500 choices.\nLast updated: 04-27-2024\nStatus: ✅ ⭐"
     },
-    "com.musclemotion.strengthnative": {
+    {
       "name": "StrengthTrainingPro",
       "bundleIdentifier": "com.musclemotion.strengthnative",
       "developerName": "Crack Hub",
@@ -5951,7 +5951,7 @@
       ],
       "localizedDescription": "An advanced, PRO, and interactive anatomy and exercises app featuring more than 4000 high-quality 3D videos. It includes science-backed exercises, workout plans, tips, and theoretical knowledge covering muscle, movement, and fitness, designed to elevate your expertise in the field. A user requested it so here it is. Note: Tweak fixed\nLast updated: 04-26-2024\nStatus: ✅"
     },
-    "com.christian.PixelPals": {
+    {
       "name": "PixelPalsPremium",
       "bundleIdentifier": "com.christian.PixelPals",
       "developerName": "Lãng Khách🇻🇳 / Crack Hub",
@@ -5967,7 +5967,7 @@
       ],
       "localizedDescription": "App that offers a unique way to personalize your Home and Lock Screen with customizable, adorable pets, enhancing your app navigation and phone unlocking experience. Note: To unlock premium press purchase then close the app, you might need to repeat the process twice. You can also reinstall the app via the AppStore as it might keep the tweak working.\nLast updated: 04-25-2024\nStatus: ✅ ⭐"
     },
-    "wtf.riedel.one-sec": {
+    {
       "name": "onesecpro",
       "bundleIdentifier": "wtf.riedel.one-sec",
       "developerName": "Lãng Khách🇻🇳 / Crack Hub",
@@ -5983,7 +5983,7 @@
       ],
       "localizedDescription": "App that helps you taking a deep breath before accessing selected websites or apps (like Twitter, YouTube, Instagram), disrupting immediate social media habits and introducing a deliberate pause to reduce usage over time. A user requested it so here it is.\nLast updated: 04-24-2024\nStatus: ✅"
     },
-    "ch.b-eng.tor": {
+    {
       "name": "TorBrowserPlusPlus",
       "bundleIdentifier": "ch.b-eng.tor",
       "developerName": "AppDB / DPixel / Manpreet Singh @thisismanpreets",
@@ -6055,7 +6055,7 @@
       ],
       "localizedDescription": "Injected with Satella. Tor Browser with premium features unlocked. Note: VPN also works.\nLast updated: 04-24-2024\nStatus: ✅"
     },
-    "com.readdle.ReaddleDocsIPad": {
+    {
       "name": "DocumentsPlus",
       "bundleIdentifier": "com.readdle.ReaddleDocsIPad",
       "developerName": "Manpreet Singh @thisismanpreets",
@@ -6092,7 +6092,7 @@
       ],
       "localizedDescription": "Browse, listen to, watch, and mark up nearly any material you desire. Documents, files, books, and all sorts of content find their perfect place in this app. A user requested it so here it is.\nLast updated: 04-23-2024\nStatus: ✅ ⭐"
     },
-    "com.camerasideas.InstaShot": {
+    {
       "name": "InShotPro",
       "bundleIdentifier": "com.camerasideas.InstaShot",
       "developerName": "AppDB / DPixel / iApps / FayezUpdates / Manpreet Singh @thisismanpreets / zxcvbn’s tweaked IPAs",
@@ -6269,7 +6269,7 @@
       ],
       "localizedDescription": "Popular video/image editor with pro features unlocked\nLast updated: 04-23-2024\nStatus: ✅"
     },
-    "com.appslab.safelock": {
+    {
       "name": "SafeLockPremium",
       "bundleIdentifier": "com.appslab.safelock",
       "developerName": "Manpreet Singh @thisismanpreets",
@@ -6285,7 +6285,7 @@
       ],
       "localizedDescription": "This app offers advanced security features including PIN-code, Touch ID, Face ID, DotLock, and both numeric and alphabetic passwords, ensuring that your confidential photo album is securely locked and protected from unauthorized viewers.\nLast updated: 04-23-2024\nStatus: ✅"
     },
-    "com.sugarmo.ScrollClip": {
+    {
       "name": "PicsewPro",
       "bundleIdentifier": "com.sugarmo.ScrollClip",
       "developerName": "iOS宝藏",
@@ -6308,7 +6308,7 @@
       ],
       "localizedDescription": "App that can seamlessly combine several screenshots into one extended image. Note: Install the 3.9.7 version over the 3.9.4 to keep the tweak working.\nLast updated: 04-22-2024\nStatus: ✅"
     },
-    "com.bigblueclip.picstitch": {
+    {
       "name": "PicStitchPro",
       "bundleIdentifier": "com.bigblueclip.picstitch",
       "developerName": "Turki",
@@ -6324,7 +6324,7 @@
       ],
       "localizedDescription": "App that effortlessly blends photos using more than 400 collage layouts, 25 filter packs, and over 30 border packs. With a straightforward design yet powerful collage editing tools including photo/video editing capabilities. Note: Tweak is unstable and widgets work only partially.\nLast updated: 04-22-2024\nStatus: ✅ ⭐"
     },
-    "com.xcvzaq.imagejoin": {
+    {
       "name": "StitchPicsPro",
       "bundleIdentifier": "com.xcvzaq.imagejoin",
       "developerName": "Lãng Khách🇻🇳",
@@ -6340,7 +6340,7 @@
       ],
       "localizedDescription": "App to \"stitch screenshots\" into a single seamless image, preserving original clarity, with support for automatic/manual and vertical/horizontal stitching, plus Web Snapshot and Photo Action Extensions and an image edge torn effect.\nLast updated: 04-22-2024\nStatus: ✅"
     },
-    "com.culturedcode.ThingsiPhone.WatchApp": {
+    {
       "name": "Things3",
       "bundleIdentifier": "com.culturedcode.ThingsiPhone.WatchApp",
       "developerName": "N/A",
@@ -6398,7 +6398,7 @@
       ],
       "localizedDescription": "App that assists you in organizing your schedule, managing projects, and achieving your goals. Note: Versions up to 3.19.3 crashes for iOS 15.5 and below.\nLast updated: 04-22-2024\nStatus: ✅ 👍 ⭐"
     },
-    "it.Ettore.Electrical-Calculations-FREE": {
+    {
       "name": "ElectricalCalculationsPro",
       "bundleIdentifier": "it.Ettore.Electrical-Calculations-FREE",
       "developerName": "Lãng Khách🇻🇳",
@@ -6421,7 +6421,7 @@
       ],
       "localizedDescription": "Offer a wide range of calculations to assist you in your professional tasks.\nLast updated: 04-20-2024\nStatus: ✅"
     },
-    "com.samvermette.Transit": {
+    {
       "name": "TransitRoyale",
       "bundleIdentifier": "com.samvermette.Transit",
       "developerName": "Lãng Khách🇻🇳",
@@ -6437,7 +6437,7 @@
       ],
       "localizedDescription": "App to accurately view next departure times, track the location of nearby buses and trains on a map, and access upcoming transit schedules.\nLast updated: 04-20-2024\nStatus: ✅ ⭐"
     },
-    "com.lilucat.applock.us": {
+    {
       "name": "AppLockPro",
       "bundleIdentifier": "com.lilucat.applock.us",
       "developerName": "Lãng Khách🇻🇳",
@@ -6460,7 +6460,7 @@
       ],
       "localizedDescription": "Privacy app designed to help keep your sensitive apps private and secure on your device.\nLast updated: 04-19-2024\nStatus: ✅ ⭐"
     },
-    "gen.tech.impulse": {
+    {
       "name": "ImpulsePro",
       "bundleIdentifier": "gen.tech.impulse",
       "developerName": "DPixel",
@@ -6511,7 +6511,7 @@
       ],
       "localizedDescription": "Impulse, cracked with pro features (buy and cancel). Note: Install through TrollStore then reinstall via the AppStore. This process (might) keep the tweak working.\nLast updated: 04-19-2024\nStatus: ✅"
     },
-    "com.gamelounge.loopsie.ios": {
+    {
       "name": "LoopsiePro",
       "bundleIdentifier": "com.gamelounge.loopsie.ios",
       "developerName": "Manpreet Singh @thisismanpreeets",
@@ -6541,7 +6541,7 @@
       ],
       "localizedDescription": "Injected with Pro. App that allows you to easily animate parts of your photos. A user requested it so here it is.\nLast updated: 04-19-2024\nStatus: ✅"
     },
-    "com.zhiliaoapp.musically": {
+    {
       "name": "TikTokLRD",
       "bundleIdentifier": "com.zhiliaoapp.musically",
       "developerName": "zxcvbn’s tweaked IPAs / Manpreet Singh @thisismanpreeets / nowesr1",
@@ -6816,7 +6816,7 @@
       ],
       "localizedDescription": "TikTok, injected with a version of TikTokLRD (3.4). In some cases, the option to save photos doesn't show up. Use the TikPhoto shortcut to save them if this happens to you. For those using LRD 2.1 with the menu in Russian, translations part 1 / part 2 / part 3\nLast updated: 04-19-2024\nStatus: ✅"
     },
-    "com.jakemor.firness-ai": {
+    {
       "name": "FitnessAIPremium",
       "bundleIdentifier": "com.jakemor.firness-ai",
       "developerName": "Lãng Khách🇻🇳",
@@ -6832,7 +6832,7 @@
       ],
       "localizedDescription": "Advanced training app to help you follow the ideal set, repetition, and weight configuration to achieve your fitness objectives. A user requested it so here it is.\nLast updated: 04-18-2024\nStatus: ✅ ⭐"
     },
-    "ylee.studio.instories": {
+    {
       "name": "InstoriesPro",
       "bundleIdentifier": "ylee.studio.instories",
       "developerName": "IAppsBestLibrary",
@@ -6855,7 +6855,7 @@
       ],
       "localizedDescription": "App to make professional designs effortlessly with Instories through just a few taps. A user requested it so here it is.\nLast updated: 04-18-2024\nStatus: ✅"
     },
-    "ai.moises": {
+    {
       "name": "MoisesPremium",
       "bundleIdentifier": "ai.moises",
       "developerName": "Manpreet Singh @thisismanpreeets",
@@ -6871,7 +6871,7 @@
       ],
       "localizedDescription": "AI-powered app for musicians, offering vocal and instrument separation. Transform any song for karaoke, acapella, or instrumental tracks, adjusting key and tempo as desired. A user requested it so here it is. Note: Tweak appears to be highly unstable with frequent crashes.\nLast updated: 04-18-2024\nStatus: ✅"
     },
-    "com.bitsmedia.muslimpro": {
+    {
       "name": "MuslimProPlus",
       "bundleIdentifier": "com.bitsmedia.muslimpro",
       "developerName": "IAppsBestLibrary",
@@ -6894,7 +6894,7 @@
       ],
       "localizedDescription": "Deepen your commitment to Islam with Muslim Pro as your app companion. Enjoy a brand new experience with personalized learning and memorization tools, explore our new AI bot that can answer your Islamic questions at any time, and watch exciting Ramadan shows exclusively on Qalbox. Note: AI feature is unavailable.\nLast updated: 04-18-2024\nStatus: ✅ ⭐"
     },
-    "fun.ask": {
+    {
       "name": "NGLPro",
       "bundleIdentifier": "fun.ask",
       "developerName": "AbodSyripa",
@@ -6924,7 +6924,7 @@
       ],
       "localizedDescription": "An anonymous messaging app that gives you a link to share on social networks like Instagram or Snapchat. Your followers can then follow this link to your NGL profile and begin interacting with you anonymously. A user requested it so here it is.\nLast updated: 04-18-2024\nStatus: ✅"
     },
-    "com.feraset.tune": {
+    {
       "name": "MusicAIVIP",
       "bundleIdentifier": "com.feraset.tune",
       "developerName": "Zzz Zzz",
@@ -6940,7 +6940,7 @@
       ],
       "localizedDescription": "App that offers AI-generated covers with a variety of voice options, results are questionable. A user requested it so here it is.\nLast updated: 04-17-2024\nStatus: ✅"
     },
-    "com.adobe.scan.ios": {
+    {
       "name": "AdobeScanPremium",
       "bundleIdentifier": "com.adobe.scan.ios",
       "developerName": "binnichtaktiv's iPA Library",
@@ -6977,7 +6977,7 @@
       ],
       "localizedDescription": "Injected with Satella. App that turns device into a portable scanner that recognizes text automatically. A user requested it so here it is.\nLast updated: 04-16-2024\nStatus: ✅ 👍"
     },
-    "de.wetteronline.WetterApppro": {
+    {
       "name": "WeatherRadarPro",
       "bundleIdentifier": "de.wetteronline.WetterApppro",
       "developerName": "N/A",
@@ -6993,7 +6993,7 @@
       ],
       "localizedDescription": "Reliable local weather predictions, alerts, and comprehensive temperature, wind, and lightning radar all in one. A user requested it so here it is.\nLast updated: 04-16-2024\nStatus: ✅ ⭐"
     },
-    "com.charliemchapman.dark-noise": {
+    {
       "name": "DarkNoisePro",
       "bundleIdentifier": "com.charliemchapman.dark-noise",
       "developerName": "Lãng Khách🇻🇳",
@@ -7009,7 +7009,7 @@
       ],
       "localizedDescription": "App to play ambient noise to help you sleep, focus, or relax.\nLast updated: 04-15-2024\nStatus: ✅ ⭐"
     },
-    "com.alexandersergienko.TabataTimer": {
+    {
       "name": "TabataTimerPremium",
       "bundleIdentifier": "com.alexandersergienko.TabataTimer",
       "developerName": "Paisseon / ArianaMinajj",
@@ -7025,7 +7025,7 @@
       ],
       "localizedDescription": "App for both beginners and advanced users, offers a user-friendly interface for simple one-click workout starts and customizable options for tailored fitness routines. A user requested it so here it is.\nLast updated: 04-14-2024\nStatus: ✅"
     },
-    "com.adguard.AdguardPro": {
+    {
       "name": "AdGuardPro",
       "bundleIdentifier": "com.adguard.AdguardPro",
       "developerName": "N/A",
@@ -7048,7 +7048,7 @@
       ],
       "localizedDescription": "An extremely effective ad blocker for Safari. It not only eliminates annoying ads but also enhances your privacy with advanced tracking protection. AdGuard for iOS is an open-source app that is completely transparent and safe to use. Note: DNS protection is effective but it may cause conflicts with other services in use. Despite this, I highly recommend using it. (To block telemetry for example, such as ESign.)\nLast updated: 04-13-2024\nStatus: ✅ 👍"
     },
-    "com.iPwners.Plonkan": {
+    {
       "name": "BuddyPremium",
       "bundleIdentifier": "com.iPwners.Plonkan",
       "developerName": "Lãng Khách🇻🇳",
@@ -7064,7 +7064,7 @@
       ],
       "localizedDescription": "App that helps set up a budget and keep track of expenses.\nLast updated: 04-11-2024\nStatus: ✅ ⭐"
     },
-    "com.goodiware.grpro": {
+    {
       "name": "GoodReaderPro",
       "bundleIdentifier": "com.goodiware.grpro",
       "developerName": "N/A",
@@ -7080,7 +7080,7 @@
       ],
       "localizedDescription": "Document reading and file managing app. A user requested it so here it is.\nLast updated: 04-10-2024\nStatus: ✅"
     },
-    "com.adobe.PSMobile": {
+    {
       "name": "PhotoshopExpress",
       "bundleIdentifier": "com.adobe.PSMobile",
       "developerName": "AppDB / FayezUpdates / iPAWiND / ipalibrary.me",
@@ -7355,7 +7355,7 @@
       ],
       "localizedDescription": "Adobe's Photoshop Express, cracked for all premium features. except cloud storage\nLast updated: 04-10-2024\nStatus: ✅"
     },
-    "com.Alfie.TrollInstallerX": {
+    {
       "name": "TrollInstallerX",
       "bundleIdentifier": "com.Alfie.TrollInstallerX",
       "developerName": "alfiecg24",
@@ -7371,7 +7371,7 @@
       ],
       "localizedDescription": "TrollStore installer for iOS 14.0 to 16.6.1\nLast updated: 04-09-2024\nStatus: ✅"
     },
-    "com.mlobodzinski.Stoic": {
+    {
       "name": "StoicPremium",
       "bundleIdentifier": "com.mlobodzinski.Stoic",
       "developerName": "zxcvbn's tweaked IPAs / Lãng Khách🇻🇳",
@@ -7394,7 +7394,7 @@
       ],
       "localizedDescription": "A mental health companion that helps users understand their emotions and offers insights on how to improve happiness, productivity, and overcome obstacles. A user requested it so here it is. Note: AI feature is unavailable.\nLast updated: 04-08-2024\nStatus: ✅ ⭐"
     },
-    "com.kimen.aptvpro": {
+    {
       "name": "APTVPro",
       "bundleIdentifier": "com.kimen.aptvpro",
       "developerName": "iOS Tutorials + App Cracks / binnichtaktiv's iPA Library",
@@ -7410,7 +7410,7 @@
       ],
       "localizedDescription": "IPTV streamer that also supports IPv6 to access to China mainland channels. Setup with URLs from GitHub. A user requested it so here it is.\nLast updated: 04-07-2024\nStatus: ✅"
     },
-    "org.xbmc.kodi-ios": {
+    {
       "name": "Kodi",
       "bundleIdentifier": "org.xbmc.kodi-ios",
       "developerName": "ArianaMinajj",
@@ -7461,7 +7461,7 @@
       ],
       "localizedDescription": "Multi-featured media player/streamer. Note: Version 18.9 is the last version that will work with TrollStore on iOS 15 and below, new updates requires iOS 16.6 and up. Refer to this issue for more informations.\nLast updated: 04-07-2024\nStatus: ❔"
     },
-    "com.olegst.usage": {
+    {
       "name": "UsagePro",
       "bundleIdentifier": "com.olegst.usage",
       "developerName": "AbodSyripa",
@@ -7484,7 +7484,7 @@
       ],
       "localizedDescription": "App that allows you to keep an eye on your device's activity, data consumption, connection velocity, and more, featuring 21 Home Screen widgets, highly customizable Super widgets, and brand-new Lock Screen widgets!\nLast updated: 04-07-2024\nStatus: ✅ ⭐"
     },
-    "co.windyapp.Windy.watchkitapp": {
+    {
       "name": "WindyappPro",
       "bundleIdentifier": "co.windyapp.Windy.watchkitapp",
       "developerName": "iApps",
@@ -7514,7 +7514,7 @@
       ],
       "localizedDescription": "Expert weather application designed specifically for aquatic and wind-based activities such as sailing, surfing, fishing, and more. It provides comprehensive weather forecasts, real-time global wind maps, and localized weather updates.\nLast updated: 04-07-2024\nStatus: ✅ ⭐"
     },
-    "com.audiomack.iphone": {
+    {
       "name": "AudiomackPremium",
       "bundleIdentifier": "com.audiomack.iphone",
       "developerName": "Lãng Khách🇻🇳",
@@ -7530,7 +7530,7 @@
       ],
       "localizedDescription": "Audiomack is a worldwide music streaming and discovery application that enables you to download and access the latest songs, albums, mixtapes, and playlists offline. Enjoy entire tracks without the need for data, as well as local MP3 files. Note: Very laggy.\nLast updated: 04-06-2024\nStatus: ✅ ⭐"
     },
-    "com.gingerlabs.Notability": {
+    {
       "name": "Notability",
       "bundleIdentifier": "com.gingerlabs.Notability",
       "developerName": "zxcvbn's tweaked IPAs",
@@ -7560,7 +7560,7 @@
       ],
       "localizedDescription": "Cracked with Satella. Digital note-taking app which is a highly appealing alternative to Goodnotes 6.\nLast updated: 04-06-2024\nStatus: ✅ ⭐"
     },
-    "com.photoeditor.polish": {
+    {
       "name": "PolishPro",
       "bundleIdentifier": "com.photoeditor.polish",
       "developerName": "DPixel",
@@ -7597,7 +7597,7 @@
       ],
       "localizedDescription": "Photo/video editor with a variety of different features as well as a clean interface, cracked for premium features. Full app description here\nLast updated: 04-06-2024\nStatus: ✅"
     },
-    "com.iqraapp.Iqra": {
+    {
       "name": "TarteelPremium",
       "bundleIdentifier": "com.iqraapp.Iqra",
       "developerName": "DPixel",
@@ -7620,7 +7620,7 @@
       ],
       "localizedDescription": "Tarteel is the first-ever Quran app powered by AI. Simply tap the microphone, start your recitation, and observe as the verses appear in front of you.\nLast updated: 04-06-2024\nStatus: ✅"
     },
-    "com.cardinalblue.PicCollage": {
+    {
       "name": "PicCollageVIP",
       "bundleIdentifier": "com.cardinalblue.PicCollage",
       "developerName": "Paisseon / ArianaMinajj",
@@ -7636,7 +7636,7 @@
       ],
       "localizedDescription": "Injected with Satella. App for creating animated birthday cards and valentines with a large amount of templates. A user requested it so here it is.\nLast updated: 04-05-2024\nStatus: ✅"
     },
-    "so.outside.app": {
+    {
       "name": "OutsidePro",
       "bundleIdentifier": "so.outside.app",
       "developerName": "Lãng Khách🇻🇳",
@@ -7652,7 +7652,7 @@
       ],
       "localizedDescription": "App that allows you to include unlimited plans and widgets. A user requested it so here it is.\nLast updated: 04-04-2024\nStatus: ✅ ⭐"
     },
-    "com.reddit.Reddit": {
+    {
       "name": "RedditPlus",
       "bundleIdentifier": "com.reddit.Reddit",
       "developerName": "AppDB / Ed0.ipa",
@@ -7794,7 +7794,7 @@
       ],
       "localizedDescription": "Reddit, injected with RedditFilter & RedditSideloadFix (level3tjg), and Riskkit (AppleCraxkhead)\nLast updated: 04-04-2024\nStatus: ❔"
     },
-    "net.shinyfrog.bear-iOS": {
+    {
       "name": "BearPro",
       "bundleIdentifier": "net.shinyfrog.bear-iOS",
       "developerName": "zxcvbn's tweaked IPAs / Strejda603 / HertzSign iPA Library",
@@ -7873,7 +7873,7 @@
       ],
       "localizedDescription": "Bear Notes, with pro features unlocked. If you already use Bear Notes from the App Store, back up your notes before force installing this with TrollStore\nLast updated: 04-03-2024\nStatus: ✅ ⭐"
     },
-    "com.markodevcic.code-runner": {
+    {
       "name": "CodeRunnerPro",
       "bundleIdentifier": "com.markodevcic.code-runner",
       "developerName": "Lãng Khách🇻🇳",
@@ -7889,7 +7889,7 @@
       ],
       "localizedDescription": "Create, modify, compile, and execute code in more than 30 programming languages, wherever you are. Edit files and make commits to your GitHub repositories directly. A user requested it so here it is.\nLast updated: 04-03-2024\nStatus: ✅"
     },
-    "com.google.GoogleDigitalEditions": {
+    {
       "name": "GoogleNews",
       "bundleIdentifier": "com.google.GoogleDigitalEditions",
       "developerName": "AppDB",
@@ -7926,7 +7926,7 @@
       ],
       "localizedDescription": "Full app description here. This IPA is tweaked to bypass most paywalls, etc\nLast updated: 04-03-2024\nStatus: ✅"
     },
-    "com.adobe.lrmobilephone": {
+    {
       "name": "LightroomPremium",
       "bundleIdentifier": "com.adobe.lrmobilephone",
       "developerName": "Manpreet Singh @thisismanpreets",
@@ -7949,7 +7949,7 @@
       ],
       "localizedDescription": "Injected with Satella. Another popular video/image editor with pro features unlocked. A user requested it so here it is.\nLast updated: 04-01-2024\nStatus: ✅ ⭐"
     },
-    "com.withopal.opal": {
+    {
       "name": "OpalPro",
       "bundleIdentifier": "com.withopal.opal",
       "developerName": "Lãng Khách🇻🇳",
@@ -7965,7 +7965,7 @@
       ],
       "localizedDescription": "Surpassing Apple's Screen Time, Opal boosts your focus, empowering you to fully seize every day.\nLast updated: 04-01-2024\nStatus: ✅ ⭐"
     },
-    "com.chatgtp.gpt-3.Chat-GPT": {
+    {
       "name": "AIChatGP",
       "bundleIdentifier": "com.chatgtp.gpt-3.Chat-GPT",
       "developerName": "DPixel",
@@ -7995,7 +7995,7 @@
       ],
       "localizedDescription": "Introducing yet another \"ChatGPT-4\" assistant, which holds promise for intriguing features. However, it is likely that its performance might fall short of Chat Genie (App above). Further testing is warranted to determine its efficacy accurately.\nLast updated: 03-31-2024\nStatus: ✅"
     },
-    "com.techconsolidated.photosolve": {
+    {
       "name": "PicAnswerPremium",
       "bundleIdentifier": "com.techconsolidated.photosolve",
       "developerName": "DPixel",
@@ -8018,7 +8018,7 @@
       ],
       "localizedDescription": "App that offers instant solutions and personalized AI chat support across a wide range of subjects, all through a simple snap of your homework. A user requested it so here it is.\nLast updated: 03-31-2024\nStatus: ✅"
     },
-    "com.ookla.speedtest": {
+    {
       "name": "SpeedTestPremium",
       "bundleIdentifier": "com.ookla.speedtest",
       "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets",
@@ -8090,7 +8090,7 @@
       ],
       "localizedDescription": "SpeedTest by Ookla, with premium features\nLast updated: 03-31-2024\nStatus: ✅"
     },
-    "com.litritt.ignited": {
+    {
       "name": "Ignited",
       "bundleIdentifier": "com.litritt.ignited",
       "developerName": "LitRitt",
@@ -8162,7 +8162,7 @@
       ],
       "localizedDescription": "Forked from Delta, this is a multi-core emulator front-end for iOS devices. It offers an attractive user interface and a suite of features not typically found in other emulators.\nLast updated: 03-29-2024\nStatus: ✅"
     },
-    "com.icandiapps.nightsky": {
+    {
       "name": "NightSkyPlus",
       "bundleIdentifier": "com.icandiapps.nightsky",
       "developerName": "iOSGods!",
@@ -8185,7 +8185,7 @@
       ],
       "localizedDescription": "Night Sky transforms your device into an impressive personal planetarium. Effortlessly discover stars, planets, constellations, and satellites above with this enchanting tool. Whether you're seeking out a specific constellation or the International Space Station, Night Sky makes it easy to explore and research the heavens.\nLast updated: 03-29-2024\nStatus: ✅ ⭐"
     },
-    "com.risingcabbage.enhancefox": {
+    {
       "name": "EnhanceFoxPro",
       "bundleIdentifier": "com.risingcabbage.enhancefox",
       "developerName": "Qamislo - Apps",
@@ -8215,7 +8215,7 @@
       ],
       "localizedDescription": "Another app that enhance both the quality of photos and videos, results are very promising! Pro features unlocked.\nLast updated: 03-27-2024\nStatus: ✅"
     },
-    "com.antique.Folium": {
+    {
       "name": "Folium",
       "bundleIdentifier": "com.antique.Folium",
       "developerName": "Jarrod Norwell (Antique)",
@@ -8266,7 +8266,7 @@
       ],
       "localizedDescription": "Folium is a paid multi-system emulator that merge Limon and other of Jarrod's emulators into one central app. It currently supports 3DS (Citra), NES (Kiwi) and Switch (Yuzu). Please refrain from opening issues here; instead, consider joining their Discord server or ask for any questions here.\nLast updated: 03-27-2024\nStatus: ❔"
     },
-    "com.woo-interactive.PixelWeather": {
+    {
       "name": "PixelWeather",
       "bundleIdentifier": "com.woo-interactive.PixelWeather",
       "developerName": "N/A",
@@ -8289,7 +8289,7 @@
       ],
       "localizedDescription": "PixelWeather presents a Retro Style Weather Forecast offering a versatile option that can be used independently or in conjunction with Carrot Weather simultaneously as it provides FULL support for widgets and live activities.\nLast updated: 03-27-2024\nStatus: ✅ ⭐"
     },
-    "com.readdle.Scanner": {
+    {
       "name": "ScannerProPlus",
       "bundleIdentifier": "com.readdle.Scanner",
       "developerName": "Manpreet Singh @thisismanpreets",
@@ -8312,7 +8312,7 @@
       ],
       "localizedDescription": "Injected with Plus. Another app that turns device into a portable scanner that recognizes text automatically. A user requested it so here it is.\nLast updated: 03-27-2024\nStatus: ✅"
     },
-    "com.truesoftware.TrueCallerOther": {
+    {
       "name": "TruecallerPremium",
       "bundleIdentifier": "com.truesoftware.TrueCallerOther",
       "developerName": "Ravand Bajlory / iOS Tutorials + App Cracks",
@@ -8356,7 +8356,7 @@
       ],
       "localizedDescription": "TrollStore-only. Gold Membership cracked, (require more testing). Tutorial: Begin by installing TrueCaller from the App Store and follow all the instructions provided on-screen. Once you've completed this, proceed to force install the TrollStore version. (without uninstalling the original app)\nLast updated: 03-27-2024\nStatus: ❔ ⭐"
     },
-    "com.vpnsatoshi.vpnsatoshiapp": {
+    {
       "name": "VPNSatoshi",
       "bundleIdentifier": "com.vpnsatoshi.vpnsatoshiapp",
       "developerName": "binnichtaktiv's iPA Library",
@@ -8386,7 +8386,7 @@
       ],
       "localizedDescription": "If other VPNs from the repo aren't working, this one seems also to be working well on Trollstore.\nLast updated: 03-27-2024\nStatus: ✅"
     },
-    "com.wallpaperscraft.wallpapers": {
+    {
       "name": "WallcraftPro",
       "bundleIdentifier": "com.wallpaperscraft.wallpapers",
       "developerName": "DPixel",
@@ -8409,7 +8409,7 @@
       ],
       "localizedDescription": "High-quality wallpapers for iPhone, unlocked with Pro. A user requested it so here it is.\nLast updated: 03-27-2024\nStatus: ✅"
     },
-    "com.CanYouJB.SamoXcZ": {
+    {
       "name": "CanYouJB",
       "bundleIdentifier": "com.CanYouJB.SamoXcZ",
       "developerName": "SamoXcZ",
@@ -8425,7 +8425,7 @@
       ],
       "localizedDescription": "A straightforward Jailbreak Detector. Supports iOS 15.0 to 17.0. A user requested it so here it is.\nLast updated: 03-26-2024\nStatus: ✅"
     },
-    "com.lightricks.Enlight-Editor": {
+    {
       "name": "PhotoleapPro",
       "bundleIdentifier": "com.lightricks.Enlight-Editor",
       "developerName": "Manpreet Singh @thisismanpreets",
@@ -8448,7 +8448,7 @@
       ],
       "localizedDescription": "Photoleap, with unlimited Access, I Referred to it as \"Pro\" even though it doesn't exist. A user requested it so here it is.\nLast updated: 03-24-2024\nStatus: ✅"
     },
-    "com.intsig.CamScannerLite": {
+    {
       "name": "CamScannerPremium",
       "bundleIdentifier": "com.intsig.CamScannerLite",
       "developerName": "Manpreet Singh @thisismanpreeets",
@@ -8471,7 +8471,7 @@
       ],
       "localizedDescription": "Injected with Premium. Another app that turns device into a portable scanner that recognizes text automatically. A user requested it so here it is.\nLast updated: 03-23-2024\nStatus: ✅ ⭐"
     },
-    "com.artisanglobal.quakefeed": {
+    {
       "name": "QuakeFeedPremium",
       "bundleIdentifier": "com.artisanglobal.quakefeed",
       "developerName": "zxcvbn’s tweaked IPAs",
@@ -8494,7 +8494,7 @@
       ],
       "localizedDescription": "An original viewpoint on global seismic activity, featuring maps and notifications for rapid earthquake updates. Access ten stunning base maps along with various data repositories, encompassing historical seismic events dating back to 1900. Additional map overlays are available to track wildfires, hurricanes, and active volcanoes.\nLast updated: 03-23-2024\nStatus: ✅"
     },
-    "com.aoklab.fewerphotos": {
+    {
       "name": "SwipewipePremium",
       "bundleIdentifier": "com.aoklab.fewerphotos",
       "developerName": "iOS Tutorials + App Cracks",
@@ -8517,7 +8517,7 @@
       ],
       "localizedDescription": "App that offers a simple and enjoyable method for cleaning up your camera roll and photos, making the task effortless and pleasant.\nLast updated: 03-21-2024\nStatus: ✅ ⭐"
     },
-    "com.gunthermarktl.stepapp": {
+    {
       "name": "StepsAppPro",
       "bundleIdentifier": "com.gunthermarktl.stepapp",
       "developerName": "Manpreet Singh @thisismanpreeets",
@@ -8540,7 +8540,7 @@
       ],
       "localizedDescription": "Turns your phone into a simple and stylish step counter. Just put your phone in your pocket and go.\nLast updated: 03-20-2024\nStatus: ✅ ⭐"
     },
-    "Quanticapps.Athan.watchkitapp": {
+    {
       "name": "AthanProPremium",
       "bundleIdentifier": "Quanticapps.Athan.watchkitapp",
       "developerName": "Lãng Khách🇻🇳",
@@ -8556,7 +8556,7 @@
       ],
       "localizedDescription": "Offers the most precise prayer times along with a range of other features including the Quran, Tasbeeh, Islamic Calendar, a compass for Qiblah direction, and Ramadan 2024.\nLast updated: 03-19-2024\nStatus: ✅ ⭐"
     },
-    "com.huiynfim.play": {
+    {
       "name": "HDFlixDezokr",
       "bundleIdentifier": "com.huiynfim.play",
       "developerName": "N/A",
@@ -8572,7 +8572,7 @@
       ],
       "localizedDescription": "The app has been transitioned to another one in the App Store named Dezokr which masquerades as a fake video creator application. Note: Only needed if you live in an area where your App Store doesn't have that app.\nLast updated: 03-19-2024\nStatus: ✅ 👍"
     },
-    "com.flightyapp.flighty": {
+    {
       "name": "FlightyPro",
       "bundleIdentifier": "com.flightyapp.flighty",
       "developerName": "zxcvbn’s tweaked IPAs",
@@ -8588,7 +8588,7 @@
       ],
       "localizedDescription": "Offers real-time tracking of an upcoming flight's status. Delays, cancellations, and even boarding details are all included. It's an excellent flight tracker that even provides you with the weather for your flight 10 days in advance. A user requested it so here it is.\nLast updated: 03-18-2024\nStatus: ✅ ⭐"
     },
-    "ch.xxtou.hudapp": {
+    {
       "name": "TrollSpeed",
       "bundleIdentifier": "ch.xxtou.hudapp",
       "developerName": "Lessica",
@@ -8695,7 +8695,7 @@
       ],
       "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer Mode\" needs to be activated.\nLast updated: 03-18-2024\nStatus: ✅"
     },
-    "com.flyinghead.Flycast": {
+    {
       "name": "Flycast",
       "bundleIdentifier": "com.flyinghead.Flycast",
       "developerName": "flyinghead",
@@ -8711,7 +8711,7 @@
       ],
       "localizedDescription": "Emulator that supports multiple platforms, including Sega Dreamcast, Naomi, Naomi 2, and Atomiswave, and it is developed from reicast. A user requested it so here it is.\nLast updated: 03-17-2024\nStatus: ✅"
     },
-    "com.34306.watching": {
+    {
       "name": "Watching",
       "bundleIdentifier": "com.34306.watching",
       "developerName": "34306",
@@ -8727,7 +8727,7 @@
       ],
       "localizedDescription": "An app that reveals more detailed information about your iPhone's battery, which Apple does not disclose.\nLast updated: 03-17-2024\nStatus: ✅"
     },
-    "com.antique.Sudachi": {
+    {
       "name": "Sudachi",
       "bundleIdentifier": "com.antique.Sudachi",
       "developerName": "jarrodnorwell",
@@ -8750,7 +8750,7 @@
       ],
       "localizedDescription": "Sudachi is the world's first Nintendo Switch emulator for iPad and iPhone, developed from the Yuzu base and utilizing a tailored MoltenVK for the Vulkan rendering, coded in C++, Objective-C, and Swift. Note: Now merged into a new app: Folium. Please refer to its description for more details.\nLast updated: 03-15-2024\nStatus: ❌"
     },
-    "com.lingodeer": {
+    {
       "name": "LingoDeer",
       "bundleIdentifier": "com.lingodeer",
       "developerName": "ipalibrary.me / binnichtaktiv's iPA Library",
@@ -8815,7 +8815,7 @@
       ],
       "localizedDescription": "Injected with Premium. The top app for mastering Asian languages and beyond, trusted by a lot of learners. Expertly crafted lessons ensure efficient and effective learning. Achieve conversational fluency in 12 languages, including Korean, Japanese, Spanish, French, Italian, German, Portuguese, Chinese, Thai, Arabic, Russian, Vietnamese, and English. Full app description here\nLast updated: 03-12-2024\nStatus: ✅"
     },
-    "com.grailr.CARROTweather": {
+    {
       "name": "CarrotWeatherUltra",
       "bundleIdentifier": "com.grailr.CARROTweather",
       "developerName": "zxcvbn's tweaked IPAs",
@@ -8873,7 +8873,7 @@
       ],
       "localizedDescription": "This might be the best iPhone weather app, offering real-time, hourly, and 7-day forecasts with a touch of sarcastic humor to brighten any forecast. Enjoy customizable features, including the ability to tailor Carrot's humor to your preference—whether it's friendly, snarky, or dark. Accessible infographics provide at-a-glance information, while detailed meteorological data is just a tap and swipe away. HIGHLY customizable for a personalized weather experience. Note: To ensure the widgets function properly, you MUST activate your location services; otherwise, you'll encounter a \"Network Error.\"\nLast updated: 03-11-2024\nStatus: ✅ 👍 ⭐"
     },
-    "com.mika.LocationSimulation": {
+    {
       "name": "LocSim",
       "bundleIdentifier": "com.mika.LocationSimulation",
       "developerName": "CyPwn IPA Library",
@@ -8896,7 +8896,7 @@
       ],
       "localizedDescription": "Location spoofer, not affiliated with udevs' locsim.\nLast updated: 03-11-2024\nStatus: ✅"
     },
-    "com.toyopagroup.picaboo": {
+    {
       "name": "Snapchatiota",
       "bundleIdentifier": "com.toyopagroup.picaboo",
       "developerName": "Kanji's discord / nowesr1 / cotegod",
@@ -9094,7 +9094,7 @@
       ],
       "localizedDescription": "SNAPCHAT HAS NOW IMPLEMENTED NEW SIDELOADING DETECTION MEASURES, MAKING ALL MODIFIED VERSIONS OF SNAPCHAT DETECTABLE. AS A RESULT, NO SNAPCHAT TWEAK IS SAFE. IT IS ADVISED TO DISCONTINUE USING ANY SNAPCHAT TWEAKS TO AVOID THE RISK OF HAVING YOUR ACCOUNT/DEVICE BANNED.\nLast updated: 03-19-2024\nStatus: ❌"
     },
-    "com.christianselig.Apollo": {
+    {
       "name": "ApolloICA",
       "bundleIdentifier": "com.christianselig.Apollo",
       "developerName": "zxcvbn's tweaked IPAs / JeffreyCA / Balackburn",
@@ -9138,7 +9138,7 @@
       ],
       "localizedDescription": "Apollo + Apollo-ImprovedCustomApi, resolves any issues with Imgur loading that may have been caused by other tweaks. Note: I added this app upon request but I'm not familiar with its usage at all so if you come across any issues with the app, I won't be able to provide assistance.\nLast updated: 03-07-2024\nStatus: ✅ ❔"
     },
-    "au.com.savageinteractive.procreate-pocket": {
+    {
       "name": "ProcreatePocket",
       "bundleIdentifier": "au.com.savageinteractive.procreate-pocket",
       "developerName": "N/A",
@@ -9161,7 +9161,7 @@
       ],
       "localizedDescription": "App description here, this app is not modded, but a user requested it so here it is.\nLast updated: 03-07-2024\nStatus: ✅"
     },
-    "me.tanmay.Music": {
+    {
       "name": "Soor",
       "bundleIdentifier": "me.tanmay.Music",
       "developerName": "Starfiles / AppDB",
@@ -9191,7 +9191,7 @@
       ],
       "localizedDescription": "Best way for scrobbling apple music streams to last.fm.\nLast updated: 03-07-2024\nStatus: ✅ ⭐"
     },
-    "com.shadow.blackhole1160.ios": {
+    {
       "name": "BlackHole",
       "bundleIdentifier": "com.shadow.blackhole1160.ios",
       "developerName": "Sangwan5688",
@@ -9235,7 +9235,7 @@
       ],
       "localizedDescription": "Music player with a very nice UI that streams from YouTube Music. Supports downloading, playlist creation, playlist imports, app backups, etc.\nLast updated: 03-06-2024\nStatus: ❌"
     },
-    "com.feelthemusi.musi": {
+    {
       "name": "Musi",
       "bundleIdentifier": "com.feelthemusi.musi",
       "developerName": "binnichtaktiv's iPA Library",
@@ -9251,7 +9251,7 @@
       ],
       "localizedDescription": "Injected with Satella. Simple music streaming app: sort your favorite music videos, create playlists, share them with friends, and beyond. A user requested it so here it is.\nLast updated: 03-06-2024\nStatus: ✅"
     },
-    "com.nextgen.reelsapp": {
+    {
       "name": "ReelsappPro",
       "bundleIdentifier": "com.nextgen.reelsapp",
       "developerName": "binnichtaktiv's iPA Library",
@@ -9267,7 +9267,7 @@
       ],
       "localizedDescription": "App to create videos with transitions to music rhythm and beat. A user requested it so here it is.\nLast updated: 03-06-2024\nStatus: ✅"
     },
-    "com.osk3apps.CarPlex": {
+    {
       "name": "CarPlex",
       "bundleIdentifier": "com.osk3apps.CarPlex",
       "developerName": "osk3apps.com",
@@ -9325,7 +9325,7 @@
       ],
       "localizedDescription": "An app that allows you to use Plex content from CarPlay system.\nLast updated: 03-03-2024\nStatus: ✅"
     },
-    "com.lightricks.Enlight-Phoenix": {
+    {
       "name": "MotionleapPro",
       "bundleIdentifier": "com.lightricks.Enlight-Phoenix",
       "developerName": "Manpreet Singh @thisismanpreets",
@@ -9341,7 +9341,7 @@
       ],
       "localizedDescription": "Generate art with the power of AI as Motionleap enhances images through animation, bringing them to life and creating dynamic moving visuals. A user requested it so here it is.\nLast updated: 03-03-2024\nStatus: ✅"
     },
-    "com.astrapaging.VesselFinder": {
+    {
       "name": "VesselFinderPro",
       "bundleIdentifier": "com.astrapaging.VesselFinder",
       "developerName": "N/A",
@@ -9357,7 +9357,7 @@
       ],
       "localizedDescription": "Leading app for tracking vessels, offering up-to-the-minute information on vessel positions and movements through a vast network of onshore AIS receivers. A user requested it so here it is.\nLast updated: 03-03-2024\nStatus: ⚠️"
     },
-    "com.duolingo.DuolingoMobile": {
+    {
       "name": "DuolingoMax",
       "bundleIdentifier": "com.duolingo.DuolingoMobile",
       "developerName": "ArianaMinajj / iOS宝藏",
@@ -9373,7 +9373,7 @@
       ],
       "localizedDescription": "The most popular education app globally, offers a fun and free way to learn over 40 languages through short, interactive lessons. Improve your vocabulary and grammar skills by practicing speaking, reading, listening, and writing. Note: I recompiled this IPA on my own from a decrypted version due to concerns about the original source. Extensive testing has shown that it is working flawlessly, including the widgets. However, additional testing will be needed. (Support will not be provided for this so please refrain from submitting any issues)\nLast updated: 03-02-2024\nStatus: ✅ 👍 ⭐"
     },
-    "com.fiftythree.paper": {
+    {
       "name": "PaperPro",
       "bundleIdentifier": "com.fiftythree.paper",
       "developerName": "zxcvbn’s tweaked IPAs",
@@ -9389,7 +9389,7 @@
       ],
       "localizedDescription": "Immersive sketching app injected with Pro. A user requested it so here it is.\nLast updated: 02-28-2024\nStatus: ✅"
     },
-    "com.csj.ling": {
+    {
       "name": "RingtoneMaker",
       "bundleIdentifier": "com.csj.ling",
       "developerName": "ArianaMinajj",
@@ -9405,7 +9405,7 @@
       ],
       "localizedDescription": "Injected with Satella for no ads. A user requested it so here it is.\nLast updated: 02-26-2024\nStatus: ✅"
     },
-    "com.leomehlig.today": {
+    {
       "name": "StructuredPro",
       "bundleIdentifier": "com.leomehlig.today",
       "developerName": "iOS Tutorials + App Cracks",
@@ -9428,7 +9428,7 @@
       ],
       "localizedDescription": "Injected with Pro. A comprehensive day planner that integrates a calendar, to-do list, and habit tracker into a unified timeline. Note: Install through TrollStore then reinstall via the AppStore. This process not only keep the tweak working but also allows the use of widgets and live activities.\nLast updated: 02-25-2024\nStatus: ✅ 👍 ⭐"
     },
-    "com.quvideo.VISO": {
+    {
       "name": "TempoPro",
       "bundleIdentifier": "com.quvideo.VISO",
       "developerName": "DPixel / Manpreet Singh @thisismanpreets",
@@ -9514,7 +9514,7 @@
       ],
       "localizedDescription": "Tempo, with pro features unlocked, not confirmed working on iOS 14.x.\nLast updated: 02-25-2024\nStatus: ✅"
     },
-    "com.laoyue.whitenoise": {
+    {
       "name": "WhiteNoisePro",
       "bundleIdentifier": "com.laoyue.whitenoise",
       "developerName": "iApps",
@@ -9544,7 +9544,7 @@
       ],
       "localizedDescription": "Injected with VIP. White Noise Pro includes a variety of sounds in categories ranging from: sleep, meditation, ASMR, lullaby, classical and relaxing music.\nLast updated: 02-25-2024\nStatus: ✅ 👍"
     },
-    "net.limneos.AudioRecorder": {
+    {
       "name": "AudioRecorderTS",
       "bundleIdentifier": "net.limneos.AudioRecorder",
       "developerName": "CyPwn IPA Library",
@@ -9560,7 +9560,7 @@
       ],
       "localizedDescription": "Cracked by CBZ. Provides extensive customization options similar to its jailbroken version, including toggling the recorder, biometric authentication, sync settings, server management, backups, cloud linking, notification customization, and sound settings, all while requiring legal compliance and consent for recording in many areas.\nLast updated: 02-23-2024\nStatus: ✅"
     },
-    "com.abbyy.finescanner-pro": {
+    {
       "name": "FineReaderPDFPro",
       "bundleIdentifier": "com.abbyy.finescanner-pro",
       "developerName": "CyPwn IPA Library",
@@ -9583,7 +9583,7 @@
       ],
       "localizedDescription": "FineReader PDF, with pro features unlocked.\nLast updated: 02-23-2024\nStatus: ✅"
     },
-    "live.cclerc.geranium": {
+    {
       "name": "Geranium",
       "bundleIdentifier": "live.cclerc.geranium",
       "developerName": "c22dev",
@@ -9620,7 +9620,7 @@
       ],
       "localizedDescription": "Serves as a toolbox encompassing LocSim, Daemon Manager, Cleaner, and Supervisor for TrollStore.\nLast updated: 02-23-2024\nStatus: ✅"
     },
-    "com.facebook.Messenger": {
+    {
       "name": "MessengerLSN",
       "bundleIdentifier": "com.facebook.Messenger",
       "developerName": "ipalibrary.me",
@@ -9643,7 +9643,7 @@
       ],
       "localizedDescription": "Block ads, seen messages and story view notifications but it's marred by bugs like call issues and crashes and lacks customizable settings. Note: I haven't tested this because I don't have Facebook nor Messenger so please refrain from opening an issue because I won't be able to provide assistance.\nLast updated: 02-23-2024\nStatus: ❔"
     },
-    "xyz.project.violet": {
+    {
       "name": "Violet",
       "bundleIdentifier": "xyz.project.violet",
       "developerName": "project-violet",
@@ -9729,7 +9729,7 @@
       ],
       "localizedDescription": "Another strictly 18+ NSFW manga reader. App is a bit buggy - let it download the database, then close and reopen if it freezes. You will have to reopen the app after going into some sub-menus bc there's no way out of them (UI bugs). Supports iOS 14+\nLast updated: 02-17-2024\nStatus: ✅"
     },
-    "com.leemin.helium": {
+    {
       "name": "Helium",
       "bundleIdentifier": "com.leemin.helium",
       "developerName": "leminlimez",
@@ -9780,7 +9780,7 @@
       ],
       "localizedDescription": "Status Bar Widgets for TrollStore, compatible with iOS >=14 and Jailbroken devices as well. Users on iOS >=16 must enable developer mode.\nLast updated: 02-13-2024\nStatus: ✅"
     },
-    "com.ps.TrollLEDs": {
+    {
       "name": "TrollLEDs",
       "bundleIdentifier": "com.ps.TrollLEDs",
       "developerName": "PoomSmart",
@@ -9838,7 +9838,7 @@
       ],
       "localizedDescription": "Control individual flashlight LEDs. Note: Refer to the original GitHub repository to find the list of supported devices.\nLast updated: 02-04-2024\nStatus: ✅"
     },
-    "com.gamerdelights.gamepigeon": {
+    {
       "name": "GameSeagullTS",
       "bundleIdentifier": "com.gamerdelights.gamepigeon",
       "developerName": "donato-fiore",
@@ -9861,7 +9861,7 @@
       ],
       "localizedDescription": "A updated Tweak for GamerDelights GamePigeon, now for TrollStore. Note: Install then go into gamepigeon settings inside iMessage and gameseagull should work from there!\nLast updated: 02-03-2024\nStatus: ✅"
     },
-    "com.ichitaso.otadisablerts": {
+    {
       "name": "OTADisabler",
       "bundleIdentifier": "com.ichitaso.otadisablerts",
       "developerName": "ichitaso",
@@ -9884,7 +9884,7 @@
       ],
       "localizedDescription": "Request. OTADisabler for TrollStore, refer to this for more informations.\nLast updated: 02-01-2024\nStatus: ✅"
     },
-    "ru.nonamedude.iTorrent": {
+    {
       "name": "iTorrent",
       "bundleIdentifier": "ru.nonamedude.iTorrent",
       "developerName": "XITRIX",
@@ -9907,7 +9907,7 @@
       ],
       "localizedDescription": "Probably the best Torrent client for iOS 9.3 and up.\nLast updated: 01-31-2024\nStatus: ✅ 👍"
     },
-    "p3.xyz.yyyue.esign": {
+    {
       "name": "ESign",
       "bundleIdentifier": "p3.xyz.yyyue.esign",
       "developerName": "CyPwn IPA Library / AppDB",
@@ -10035,7 +10035,7 @@
       ],
       "localizedDescription": "An app source browser that I personally use alongside TrollStore, that also occasionally gives you free certificates to sign apps with if you wish to traditionally sideload your apps. Can also inject debs into the IPA of your choice.\nLast updated: 01-28-2024\nStatus: ✅ 👍"
     },
-    "com.antique.Limon": {
+    {
       "name": "Limon",
       "bundleIdentifier": "com.antique.Limon",
       "developerName": "emuPlace",
@@ -10058,7 +10058,7 @@
       ],
       "localizedDescription": "Nintendo 3DS emulator for iPad and iPhone built from Citra. It incorporates experimental Vulkan renderer from GPUcode via MoltenVK. Note: Now merged into a new app: Folium. Please refer to its description for more details.\nLast updated: 01-27-2024\nStatus: ❌"
     },
-    "com.thuthuatjb.trollforcete": {
+    {
       "name": "TrollStarTE",
       "bundleIdentifier": "com.thuthuatjb.trollforcete",
       "developerName": "thuthuatjb",
@@ -10081,7 +10081,7 @@
       ],
       "localizedDescription": "An enhanced iteration of TrollStar featuring a revamped user interface and an additional ESign+ installation feature.\nLast updated: 01-25-2024\nStatus: ✅ 👍"
     },
-    "zeng.EhPanda": {
+    {
       "name": "EhPanda",
       "bundleIdentifier": "zeng.EhPanda",
       "developerName": "EhPanda-Team",
@@ -10104,7 +10104,7 @@
       ],
       "localizedDescription": "A strictly 18+ NSFW manga reader. Newer releases support only iOS 15, and newest releases only support iOS 16, which is not compatible with TrollStore. If you are on iOS 15 and want to test a newer version of the app, you will have to do that on your own.\nLast updated: 01-23-2024\nStatus: ✅"
     },
-    "com.smule.sing": {
+    {
       "name": "SmuleVIP",
       "bundleIdentifier": "com.smule.sing",
       "developerName": "iApps",
@@ -10120,7 +10120,7 @@
       ],
       "localizedDescription": "Karaoke Music app unlocked with VIP.\nLast updated: 01-23-2024\nStatus: ✅"
     },
-    "com.udevs.TrollCuts": {
+    {
       "name": "TrollCuts",
       "bundleIdentifier": "com.udevs.TrollCuts",
       "developerName": "udevsharold",
@@ -10136,7 +10136,7 @@
       ],
       "localizedDescription": "Shortcuts extensions for iOS 16.0+\nLast updated: 01-23-2024\nStatus: ✅"
     },
-    "com.34306.trollforce": {
+    {
       "name": "TrollStar",
       "bundleIdentifier": "com.34306.trollforce",
       "developerName": "34306",
@@ -10159,7 +10159,7 @@
       ],
       "localizedDescription": "TrollStar, which functions primarily as a TrollStore installer, offers a notably more dependable installation process compared to Misaka. A tutorial made by Michael can be found here. Note: Read carefully the repo and releases tab for more informations.\nLast updated: 01-22-2024\nStatus: ✅"
     },
-    "com.straight-tamago.misakaRS": {
+    {
       "name": "Misaka",
       "bundleIdentifier": "com.straight-tamago.misakaRS",
       "developerName": "Misaka",
@@ -10280,7 +10280,7 @@
       ],
       "localizedDescription": "iOS customisation tool for KFD & MDC. This application aims to provide iPhone users with the opportunity to personalize their phones without the need for a jailbreak. Presently, it offers more than 24 default repositories and an impressive selection of over 400 tweaks. Note: Ensure you review the compatible iOS versions before download.\nLast updated: 01-20-2024\nStatus: ✅"
     },
-    "com.xd.mbp31": {
+    {
       "name": "MovieBoxPro",
       "bundleIdentifier": "com.xd.mbp31",
       "developerName": "AppDB / DPixel / IPA Fire",
@@ -10380,7 +10380,7 @@
       ],
       "localizedDescription": "MovieBoxPro, without ads\nLast updated: 01-20-2024\nStatus: ✅"
     },
-    "com.straight-tamago.trollmisaka": {
+    {
       "name": "TrollMisaka",
       "bundleIdentifier": "com.straight-tamago.trollmisaka",
       "developerName": "straight-tamago",
@@ -10396,7 +10396,7 @@
       ],
       "localizedDescription": "TrollStore installer for iOS 15.7.2-15.8.1. Refer to the Installing TrollStore (TrollMisaka) guide for detailed instructions.\nLast updated: 01-19-2024\nStatus: ✅"
     },
-    "com.crunchyroll.iphone": {
+    {
       "name": "Crunchyroll",
       "bundleIdentifier": "com.crunchyroll.iphone",
       "developerName": "N/A",
@@ -10419,7 +10419,7 @@
       ],
       "localizedDescription": "The app, in its unaltered form—no tweaks, no cracks, no ad-block, simply a decrypted Crunchyroll app. It seems that the app isn't accessible in some countries, and a request prompted its inclusion. Since it functions (again) when decrypted with TrollStore 2, I decided to include it (back) in this list.\nLast updated: 01-14-2024\nStatus: ✅"
     },
-    "dev.faizandurrani.moe.paperback.app": {
+    {
       "name": "Paperback",
       "bundleIdentifier": "dev.faizandurrani.moe.paperback.app",
       "developerName": "N/A",
@@ -10463,7 +10463,7 @@
       ],
       "localizedDescription": "Paperback is one of the two best manga readers on iOS (for anyone wondering, Aidoku is the other). Only needed if you live in an area where your App Store doesn't have Paperback\nLast updated: 01-14-2024\nStatus: ✅ 👍"
     },
-    "cn.bswbw.AppsDump": {
+    {
       "name": "AppDump2",
       "bundleIdentifier": "cn.bswbw.AppsDump",
       "developerName": "CyPwn IPA Library",
@@ -10493,7 +10493,7 @@
       ],
       "localizedDescription": "Decrypt IPA files. Note: that to initiate the decryption process, it is imperative to open the desired app at least once. Additionally, Filza might be needed to locate the decrypted file.\nLast updated: 01-12-2024\nStatus: ✅"
     },
-    "com.retr0dev.cracker": {
+    {
       "name": "CopylogCracker",
       "bundleIdentifier": "com.retr0dev.cracker",
       "developerName": "retr0devops",
@@ -10509,7 +10509,7 @@
       ],
       "localizedDescription": "A standalone, straightforward one-click cracking tool for CopyLog. Note: Support will not be provided for this so please refrain from submitting any issues.\nLast updated: 01-07-2024\nStatus: ✅"
     },
-    "me.tomt000.ts.copylog": {
+    {
       "name": "CopylogTS",
       "bundleIdentifier": "me.tomt000.ts.copylog",
       "developerName": "copylogts / tomt000",
@@ -10525,7 +10525,7 @@
       ],
       "localizedDescription": "CopyLog serves as an efficient clipboard history manager for iOS, offering simplicity in usage and compatibility with both iPhone and iPad, aiding in the monitoring of your device's clipboard activity. It is suitable for iOS 16-17 but has limited support for iPads.\nLast updated: 01-07-2024\nStatus: ✅ 👍"
     },
-    "com.jonny.spring": {
+    {
       "name": "SpringForTwitter",
       "bundleIdentifier": "com.jonny.spring",
       "developerName": "CyPwn IPA Library",
@@ -10555,7 +10555,7 @@
       ],
       "localizedDescription": "This is not working. I'm uploading this version for archival purposes. Note: Initially this will work upon the first login after installation with TrollStore. However after restarting, it will start checking the App ID used for the purchase and close itself. I believe there's no way to bypass this..\nLast updated: 01-06-2024\nStatus: ❌"
     },
-    "com.tigisoftware.Filza": {
+    {
       "name": "Filza",
       "bundleIdentifier": "com.tigisoftware.Filza",
       "developerName": "TigiSoftware / CyPwn IPA Library / iOS_TrollStore",
@@ -10592,7 +10592,7 @@
       ],
       "localizedDescription": "Cracked, NoURLScheme version requested. iOS filesystem explorer. Note: If you can't get an app back from the AppStore after installing it with TS, this might be useful.\nLast updated: 01-03-2024\nStatus: ✅ 👍"
     },
-    "com.wiheads.paste": {
+    {
       "name": "Paste",
       "bundleIdentifier": "com.wiheads.paste",
       "developerName": "Aboalaouy97",
@@ -10608,7 +10608,7 @@
       ],
       "localizedDescription": "Paste serves as a clipboard manager and presents a potential alternative to Copylog. Although the cracked version is a bit outdated, it still works pretty well. Note: Begin by installing it from the App Store and follow all the instructions provided on-screen. Once you've completed this, proceed to force install the TrollStore version.\nLast updated: 01-01-2024\nStatus: ⚠️"
     },
-    "org.resonance.store": {
+    {
       "name": "TrollApps",
       "bundleIdentifier": "org.resonance.store",
       "developerName": "TrollApps",
@@ -10638,7 +10638,7 @@
       ],
       "localizedDescription": "This new TrollApps serves as a substitute to the iOS App Store for individuals using TrollStore, providing an updated version of its predecessor (above). It enables users to directly download and install applications from various repositories into TrollStore. Require iOS 14.0> and latest version of TrollStore. Note: Some apps may remain marked as \"update\" even though they are running the latest version. + Web version here.\nLast updated: 12-29-2023\nStatus: ✅ 👍"
     },
-    "jp.dcsyhi.CarMovie": {
+    {
       "name": "CarMovie",
       "bundleIdentifier": "jp.dcsyhi.CarMovie",
       "developerName": "Dcsyhi1998",
@@ -10654,7 +10654,7 @@
       ],
       "localizedDescription": "Enables users to play their preferred videos through CarPlay. A demo illustrating video customization is accessible, with forthcoming features encompassing folder-based video management. Supports iOS14/15/16 and 17. Note: Not all versions of iOS16/17 are supported).\nLast updated: 12-28-2023\nStatus: ✅"
     },
-    "com.apple.mobilephone-call": {
+    {
       "name": "CallAssist",
       "bundleIdentifier": "com.apple.mobilephone-call",
       "developerName": "xybp888",
@@ -10684,7 +10684,7 @@
       ],
       "localizedDescription": "(Not translated) Chinese alternative to NiceCaller, aimed at optimizing and expanding the capabilities of the system's phone app. Note: Use the version that match your iOS otherwise it will crash.\nLast updated: 12-26-2023\nStatus: ✅"
     },
-    "org.ericbetts.CattleGrid": {
+    {
       "name": "CattleGrid",
       "bundleIdentifier": "org.ericbetts.CattleGrid",
       "developerName": "ichitaso",
@@ -10700,7 +10700,7 @@
       ],
       "localizedDescription": "Allows you to create your own amiibo utilizing ntag215 on an jailbroken or TrollStore device. Note: After you've installed the app, you need to manually locate the tag bin files and place them in the /var/mobile/Documents/CattleGrid/ directory.\nLast updated: 12-26-2023\nStatus: ✅"
     },
-    "com.appyogi.vpnapp": {
+    {
       "name": "VPNERO",
       "bundleIdentifier": "com.appyogi.vpnapp",
       "developerName": "iApps",
@@ -10716,7 +10716,7 @@
       ],
       "localizedDescription": "If other VPNs from the repo aren't working, this one seems to be working well on Trollstore.\nLast updated: 12-23-2023\nStatus: ✅ 👍"
     },
-    "com.waze.iphone": {
+    {
       "name": "WazePlus",
       "bundleIdentifier": "com.waze.iphone",
       "developerName": "CyPwn IPA Library",
@@ -10732,7 +10732,7 @@
       ],
       "localizedDescription": "Waze / Plus. A navigation app that assists drivers in reaching their destinations by providing real-time road alerts, ensuring up-to-date information.\nLast updated: 12-23-2023\nStatus: ⚠️"
     },
-    "com.matteozappia.DynamicCowTS": {
+    {
       "name": "DynamicCowTS",
       "bundleIdentifier": "com.matteozappia.DynamicCowTS",
       "developerName": "matteozappia",
@@ -10748,7 +10748,7 @@
       ],
       "localizedDescription": "Enable Dynamic Island on every device that is running iOS 16.0 - 16.6.1 / 17.0. Note: DO NOT USE ON iOS 15. This is only for iOS 16. If jailbroken on iOS 15 use Dynamic Penisula via Xina.\nLast updated: 12-22-2023\nStatus: ✅"
     },
-    "com.newin.nplayer": {
+    {
       "name": "nPlayerPlus",
       "bundleIdentifier": "com.newin.nplayer",
       "developerName": "iOSGods!",
@@ -10764,7 +10764,7 @@
       ],
       "localizedDescription": "Having received positive reviews about nPlayer, I'm posting it here as a potential alternative of Infuse!\nLast updated: 12-19-2023\nStatus: ✅"
     },
-    "com.liguangming.Shadowrocket": {
+    {
       "name": "Shadowrocket",
       "bundleIdentifier": "com.liguangming.Shadowrocket",
       "developerName": "Qamislo - Apps",
@@ -10780,7 +10780,7 @@
       ],
       "localizedDescription": "This link allow to use or potentially unlock the premium functions of many applications. Use only if you're well-versed with the process.\nLast updated: 12-19-2023\nStatus: ⚠️"
     },
-    "vpn.vpn.proxy": {
+    {
       "name": "VPNPremium",
       "bundleIdentifier": "vpn.vpn.proxy",
       "developerName": "HertzSign iPA Library",
@@ -10796,7 +10796,7 @@
       ],
       "localizedDescription": "Note: Premium tweak will not work after a restart. However, you can regain its functionality by re-installing it, so it's partially working..\nLast updated: 12-19-2023\nStatus: ⚠️"
     },
-    "it.ned.appdb-ios": {
+    {
       "name": "appdb",
       "bundleIdentifier": "it.ned.appdb-ios",
       "developerName": "n3d1117",
@@ -10812,7 +10812,7 @@
       ],
       "localizedDescription": "Comprehensive iOS client for AppDB, compatible with iOS 10 and up.\nLast updated: 12-12-2023\nStatus: ✅"
     },
-    "com.cisc0freak.cardio": {
+    {
       "name": "Cardio",
       "bundleIdentifier": "com.cisc0freak.cardio",
       "developerName": "cisc0disco",
@@ -10828,7 +10828,7 @@
       ],
       "localizedDescription": "An application that utilizes the CoreTrust bug to modify Apple Pay images.\nLast updated: 12-12-2023\nStatus: ✅"
     },
-    "ru.domo.cocoatop64": {
+    {
       "name": "CocoaTop",
       "bundleIdentifier": "ru.domo.cocoatop64",
       "developerName": "D0m0 / imbazim",
@@ -10844,7 +10844,7 @@
       ],
       "localizedDescription": "Interface for viewing processes on iOS\nLast updated: 12-12-2023\nStatus: ✅"
     },
-    "com.osy86.Jitterbug": {
+    {
       "name": "Jitterbug",
       "bundleIdentifier": "com.osy86.Jitterbug",
       "developerName": "osy",
@@ -10860,7 +10860,7 @@
       ],
       "localizedDescription": "Application that enables wireless connection to another iOS device (none of which are jailbroken) and launch an app on the connected device with JIT enabled. Can also establish a VPN tunnel using TrollStore to run apps on the local device without needing a second device.\nLast updated: 12-12-2023\nStatus: ❔"
     },
-    "com.crossutility.quantumult-x": {
+    {
       "name": "QuantumultX",
       "bundleIdentifier": "com.crossutility.quantumult-x",
       "developerName": "iOS Tutorials + App Cracks",
@@ -10876,7 +10876,7 @@
       ],
       "localizedDescription": "Note: Filters cannot be used without the receipt linked to the corresponding App ID used for the purchase; there's no way to bypass this requirement.\nLast updated: 12-12-2023\nStatus: ⚠️"
     },
-    "com.soundcloud.TouchApp": {
+    {
       "name": "SCMusicPlus",
       "bundleIdentifier": "com.soundcloud.TouchApp",
       "developerName": "Rov3r",
@@ -10892,7 +10892,7 @@
       ],
       "localizedDescription": "Improve your SoundCloud experience by eliminating advertisements, getting rid of promoted playlists, and removing upsell buttons. Installation: Download the standard SoundCloud app from the app store and sign in, then delete the app while still logged in, and use this IPA. Once installed, you can start enjoying it as you should already be logged in.\nLast updated: 12-12-2023\nStatus: ✅"
     },
-    "com.thechan.TheChan": {
+    {
       "name": "TheChan",
       "bundleIdentifier": "com.thechan.TheChan",
       "developerName": "TheChanDev",
@@ -10908,7 +10908,7 @@
       ],
       "localizedDescription": "An iOS client for 4Chan. Note: Review its FAQs.\nLast updated: 12-12-2023\nStatus: ❔"
     },
-    "com.fiore.trolldecrypt": {
+    {
       "name": "TrollDecrypt",
       "bundleIdentifier": "com.fiore.trolldecrypt",
       "developerName": "donato-fiore",
@@ -10924,7 +10924,7 @@
       ],
       "localizedDescription": "Can decrypt any IPA swiftly without initially launching the app, and there's no need to navigate through Filza to locate the decrypted file due to an included history feature!\nLast updated: 12-12-2023\nStatus: ✅ 👍"
     },
-    "com.itaysoft.wifilist": {
+    {
       "name": "WiFiList",
       "bundleIdentifier": "com.itaysoft.wifilist",
       "developerName": "Mikasa-san",
@@ -10940,7 +10940,7 @@
       ],
       "localizedDescription": "Enables you to view the previously saved passwords of connected Wi-Fi networks.\nLast updated: 12-12-2023\nStatus: ✅"
     },
-    "com.dhinakg.trollinstallermdc": {
+    {
       "name": "TrollInstallerMDC",
       "bundleIdentifier": "com.dhinakg.trollinstallermdc",
       "developerName": "ramblings",
@@ -10963,7 +10963,7 @@
       ],
       "localizedDescription": "Install TrollStore 2 on your device using MacDirtyCow, compatible with iOS versions iOS 15 - iOS 15.7.1/iOS 16.1.2. Refer to the Installing TrollStore guide for detailed instructions.\nLast updated: 12-08-2023\nStatus: ✅"
     },
-    "com.tovuen.play": {
+    {
       "name": "ShowBox",
       "bundleIdentifier": "com.tovuen.play",
       "developerName": "Qamislo - Apps",
@@ -10979,7 +10979,7 @@
       ],
       "localizedDescription": "Another HDO Play under a different name, UI is way better than the one above.\nLast updated: 12-03-2023\nStatus: ⚠️"
     },
-    "com.tigisoftware.ADManager": {
+    {
       "name": "AppsManager",
       "bundleIdentifier": "com.tigisoftware.ADManager",
       "developerName": "TigiSoftware / CyPwn IPA Library",
@@ -11016,7 +11016,7 @@
       ],
       "localizedDescription": "Not cracked. Apps Manager, for TrollStore! Create/restore backups, wipe data, etc, without a jailbreak\nLast updated: 12-01-2023\nStatus: ✅"
     },
-    "com.app.aiimglarger": {
+    {
       "name": "AIEnlargerPro",
       "bundleIdentifier": "com.app.aiimglarger",
       "developerName": "Paisseon / ArianaMinajj",
@@ -11039,7 +11039,7 @@
       ],
       "localizedDescription": "Injected with Satella. After extensive testing of various AI upscaler iOS applications, I'm confident that AI Enlarger provides the best possible results when it comes to upscaling anime images. Whether you're looking to enhance the resolution of your photos or enlarge low-quality images, I think AI Enlarger has got you covered.\nLast updated: 11-30-2023\nStatus: ✅"
     },
-    "com.ipopapp.imagesearchfree": {
+    {
       "name": "ImageSearch",
       "bundleIdentifier": "com.ipopapp.imagesearchfree",
       "developerName": "DPixel",
@@ -11062,7 +11062,7 @@
       ],
       "localizedDescription": "Reverse Image Search App, cracked for pro features. Click Pro at the top right, then the purchase button\nLast updated: 11-30-2023\nStatus: ✅"
     },
-    "live.cclerc.trollbox": {
+    {
       "name": "TrollBox",
       "bundleIdentifier": "live.cclerc.trollbox",
       "developerName": "c22dev",
@@ -11113,7 +11113,7 @@
       ],
       "localizedDescription": "A bunch of TrollStore tools packed into one application. Tools include AirTroller, carrier changer, location simulation, passcode buttons theming, device (un)supervised spoof, etc. This is still in alpha, so expect bugs if you try it\nLast updated: 11-29-2023\nStatus: ❌"
     },
-    "com.leemin.SecondHand": {
+    {
       "name": "SecondHand",
       "bundleIdentifier": "com.leemin.SecondHand",
       "developerName": "leminlimez",
@@ -11143,7 +11143,7 @@
       ],
       "localizedDescription": "Add seconds and date to status bar clock on TrollStore devices Compatible with iOS 14.0-15.4.1\nLast updated: 11-28-2023\nStatus: ✅"
     },
-    "com.rileytestut.Delta.Beta": {
+    {
       "name": "Delta",
       "bundleIdentifier": "com.rileytestut.Delta.Beta",
       "developerName": "AltStore Official",
@@ -11166,7 +11166,7 @@
       ],
       "localizedDescription": "Emulator for GBA, N64, and NDS\nLast updated: 09-23-2023\nStatus: ✅"
     },
-    "com.xiaoji.wuziqi": {
+    {
       "name": "Egg3DS",
       "bundleIdentifier": "com.xiaoji.wuziqi",
       "developerName": "EGG-3DS",
@@ -11189,7 +11189,7 @@
       ],
       "localizedDescription": "3DS emulator for iOS, apparently needs a special controller to work, test at your own discretion\nLast updated: 09-23-2023\nStatus: ⚠️"
     },
-    "com.mutaeb.OVF-Editor": {
+    {
       "name": "OVFEditor",
       "bundleIdentifier": "com.mutaeb.OVF-Editor",
       "developerName": "DPixel / zxcvbn’s tweaked IPAs",
@@ -11226,7 +11226,7 @@
       ],
       "localizedDescription": "Injected with Premium. App that lets you upload \"live\" images/videos to Snapchat. Perfectly safe.\nLast updated: 09-21-2023\nStatus: ✅"
     },
-    "com.serena.Antoine": {
+    {
       "name": "Antoine",
       "bundleIdentifier": "com.serena.Antoine",
       "developerName": "SerenaKit",
@@ -11256,7 +11256,7 @@
       ],
       "localizedDescription": "This app is TrollStore-only. An OSLog UI for iOS & iPadOS devices, Antoine allows you to view System Logs in real time, with the ability to filter logs by process, message, type, etc, as well additional stream options\nLast updated: 09-19-2023\nStatus: ✅"
     },
-    "net.sourceloc.deb-to-ipa-app": {
+    {
       "name": "DebToIPA",
       "bundleIdentifier": "net.sourceloc.deb-to-ipa-app",
       "developerName": "sourcelocation / AppDB",
@@ -11279,7 +11279,7 @@
       ],
       "localizedDescription": "App that converts .deb files into IPA files, given that the deb is actually an application with a GUI. Examples include Filza, Apps Manager, Sonic, etc.\nLast updated: 08-12-2023\nStatus: ✅"
     },
-    "com.mineek.dirtycow": {
+    {
       "name": "DirtyCowApp",
       "bundleIdentifier": "com.mineek.dirtycow",
       "developerName": "mineek / AppDB",
@@ -11302,7 +11302,7 @@
       ],
       "localizedDescription": "An all-in-one app for tweaks for iOS 15-16.1.2\nLast updated: 08-12-2023\nStatus: ✅"
     },
-    "com.xoumb.mp3.video.player": {
+    {
       "name": "LokLok",
       "bundleIdentifier": "com.xoumb.mp3.video.player",
       "developerName": "N/A",
@@ -11318,7 +11318,7 @@
       ],
       "localizedDescription": "HDO Box clone. see original app description for more info\nLast updated: 07-17-2023\nStatus: ⚠️ ❔"
     },
-    "com.marcuszhou.NineAnimator": {
+    {
       "name": "NineAnimator",
       "bundleIdentifier": "com.marcuszhou.NineAnimator",
       "developerName": "SuperMarcus",
@@ -11341,7 +11341,7 @@
       ],
       "localizedDescription": "Anime streamer, supports multiple sources and comes with a user-friendly GUI\nLast updated: 07-17-2023\nStatus: ✅"
     },
-    "com.enjoy.aichat.chatbot.openchat": {
+    {
       "name": "AIChat",
       "bundleIdentifier": "com.enjoy.aichat.chatbot.openchat",
       "developerName": "Manpreet Singh @thisismanpreeets",
@@ -11357,7 +11357,7 @@
       ],
       "localizedDescription": "Yet another AI thing, bunch of different assistants, including poet, comedian, interviewer, poet, etc. p.s. you can trick this one into giving you info about stuff it normally shouldn't, if you can word it the right way ;)\nLast updated: 06-25-2023\nStatus: ❌"
     },
-    "Ed0ardo.CyPwn-Store": {
+    {
       "name": "CyPwnStore",
       "bundleIdentifier": "Ed0ardo.CyPwn-Store",
       "developerName": "CyPwn IPA Library",
@@ -11401,7 +11401,7 @@
       ],
       "localizedDescription": "App to browse the CyPwn IPA Library, regular and TrollStore\nLast updated: 06-25-2023\nStatus: ✅"
     },
-    "com.showmania.co": {
+    {
       "name": "ShowMania",
       "bundleIdentifier": "com.showmania.co",
       "developerName": "DPixel / Manpreet Singh @thisismanpreets",
@@ -11431,7 +11431,7 @@
       ],
       "localizedDescription": "Yet another HDO Play under a different name, modded for no ads\nLast updated: 06-25-2023\nStatus: ⚠️"
     },
-    "com.leemin.Cowabunga": {
+    {
       "name": "Cowabunga",
       "bundleIdentifier": "com.leemin.Cowabunga",
       "developerName": "leminlimez",
@@ -11622,7 +11622,7 @@
       ],
       "localizedDescription": "If you're using a device with a home button, please read this. A Jailed toolbox application for iOS 14.0-16.1.2 using CVE-2022-46689. Changes are permanent on iOS 14-14.8.1, use at your own risk\nLast updated: 06-04-2023\nStatus: ✅"
     },
-    "com.peach.app": {
+    {
       "name": "StarVPNPlus",
       "bundleIdentifier": "com.peach.app",
       "developerName": "CyPwn IPA Library / AppDB",
@@ -11645,7 +11645,7 @@
       ],
       "localizedDescription": "Star VPN with pro features unlocked\nLast updated: 06-04-2023\nStatus: ⚠️"
     },
-    "com.acomazs.fovih.box": {
+    {
       "name": "CinmanaBox",
       "bundleIdentifier": "com.acomazs.fovih.box",
       "developerName": "DPixel",
@@ -11661,7 +11661,7 @@
       ],
       "localizedDescription": "Yet another movies streamer, hacked for no ads. This one is very hit-and-miss, some shows/movies may not play at all. Full app description here\nLast updated: 04-17-2023\nStatus: ⚠️"
     },
-    "doordash.DoorDashConsumer": {
+    {
       "name": "DoorDash",
       "bundleIdentifier": "doordash.DoorDashConsumer",
       "developerName": "N/A",
@@ -11677,7 +11677,7 @@
       ],
       "localizedDescription": "DoorDash app (ordering one, not Dasher), decrypted for iOS 14 users who can't get it from the App Store (thanks for the loopholes we gotta put ourselves through, Apple)\nLast updated: 04-13-2023\nStatus: ⚠️"
     },
-    "com.doordash.dasher": {
+    {
       "name": "DoorDashDasher",
       "bundleIdentifier": "com.doordash.dasher",
       "developerName": "N/A",
@@ -11693,7 +11693,7 @@
       ],
       "localizedDescription": "Dasher app (the delivery one), decrypted for iOS 14 users who can't get it from the App Store\nLast updated: 04-13-2023\nStatus: ⚠️"
     },
-    "com.lema.TumblrApp": {
+    {
       "name": "TumblrBear",
       "bundleIdentifier": "com.lema.TumblrApp",
       "developerName": "DPixel",
@@ -11709,7 +11709,7 @@
       ],
       "localizedDescription": "Tumblr, injected with Bear for Tumblr by Michael Lema\nLast updated: 04-13-2023\nStatus: ⚠️"
     },
-    "com.serena.AppIndex": {
+    {
       "name": "AppIndex",
       "bundleIdentifier": "com.serena.AppIndex",
       "developerName": "SerenaKit",
@@ -11725,7 +11725,7 @@
       ],
       "localizedDescription": "This app is TrollStore-only. An applications manager for iPhones! Allows viewing and copying a variety of app details, including entitlements, entitlements, bundleID, etc. Also allows creating backups and exporting apps as .ipa files, good if you're trying to share apps with others\nLast updated: 04-04-2023\nStatus: ✅"
     },
-    "com.foundry63.tailor": {
+    {
       "name": "Tailor",
       "bundleIdentifier": "com.foundry63.tailor",
       "developerName": "DPixel",
@@ -11741,7 +11741,7 @@
       ],
       "localizedDescription": "Full app description here. App that stitches long screenshots together, cracked for premium features. Just click buy and everything automatically activates\nLast updated: 03-27-2023\nStatus: ✅"
     },
-    "com.ginsu.WDBFontOverwrite": {
+    {
       "name": "WDBFontOverwrite",
       "bundleIdentifier": "com.ginsu.WDBFontOverwrite",
       "developerName": "zhouwei / ginsudev",
@@ -11841,7 +11841,7 @@
       ],
       "localizedDescription": "Font changer app. Supports iOS 14-16.1.2. Dev released the app as a POC, use at your own risk\nLast updated: 03-27-2023\nStatus: ✅"
     },
-    "com.neocortext.doublicatapp": {
+    {
       "name": "ReFacePro",
       "bundleIdentifier": "com.neocortext.doublicatapp",
       "developerName": "iPAWiND",
@@ -11871,7 +11871,7 @@
       ],
       "localizedDescription": "EOL for iOS 14.x. I will no longer be able to test new IPAs. For the last iOS 14 compatible version of Reface Pro, grab it from the 12-14-2022 release. ReFace, a popular face-swap app, with pro features unlocked\nLast updated: 03-21-2023\nStatus: ⚠️"
     },
-    "com.gasbuddymobile.gasbuddy": {
+    {
       "name": "GasBuddy",
       "bundleIdentifier": "com.gasbuddymobile.gasbuddy",
       "developerName": "AppDB",
@@ -11887,7 +11887,7 @@
       ],
       "localizedDescription": "Full app description here. App that helps you find gas stations near you with the cheapest prices, including some cash-back deals, etc, modded to block all ads\nLast updated: 03-11-2023\nStatus: ✅"
     },
-    "com.cinemtt.apt": {
+    {
       "name": "CineMate",
       "bundleIdentifier": "com.cinemtt.apt",
       "developerName": "DPixel",
@@ -11903,7 +11903,7 @@
       ],
       "localizedDescription": "Yet another remake of HDO Play, with ads removed. Full app description here\nLast updated: 02-24-2023\nStatus: ❌"
     },
-    "video.like": {
+    {
       "name": "LikeeLRD",
       "bundleIdentifier": "video.like",
       "developerName": "AppDB",
@@ -11919,7 +11919,7 @@
       ],
       "localizedDescription": "Full app description here. Basically a TikTok clone injected with the equivalent of TikTokLRD\nLast updated: 02-09-2023\nStatus: ⚠️"
     },
-    "jb.zini.tevi": {
+    {
       "name": "ZiniTeviPlusPlus",
       "bundleIdentifier": "jb.zini.tevi",
       "developerName": "AppDB",
@@ -11935,7 +11935,7 @@
       ],
       "localizedDescription": "Another movie app, modded to remove ads and tracking. No need to toggle the disable tracking options\nLast updated: 02-09-2023\nStatus: ⚠️"
     },
-    "com.avangelista.StatusMagic": {
+    {
       "name": "StatusMagic",
       "bundleIdentifier": "com.avangelista.StatusMagic",
       "developerName": "Avangelista",
@@ -11965,7 +11965,7 @@
       ],
       "localizedDescription": "Status bar customizations - change carrier text, breadcrumb text, or clock text, or hide icons. Persistent through reboots\nLast updated: 02-08-2023\nStatus: ✅"
     },
-    "live.cclerc.Anonycord": {
+    {
       "name": "Anonycord",
       "bundleIdentifier": "live.cclerc.Anonycord",
       "developerName": "c22dev",
@@ -11995,7 +11995,7 @@
       ],
       "localizedDescription": "Background anonymous video recording. Similar functionality to SneakyCam by SparkDev\nLast updated: 01-31-2023\nStatus: ✅"
     },
-    "com.bonov.sensial": {
+    {
       "name": "DramasFlic",
       "bundleIdentifier": "com.bonov.sensial",
       "developerName": "DPixel",
@@ -12011,7 +12011,7 @@
       ],
       "localizedDescription": "Yet another HDO Play app. All in-app ads removed\nLast updated: 01-31-2023\nStatus: ⚠️"
     },
-    "com.opa334.u0launcher": {
+    {
       "name": "u0Launcher",
       "bundleIdentifier": "com.opa334.u0launcher",
       "developerName": "opa334",
@@ -12027,7 +12027,7 @@
       ],
       "localizedDescription": "After thinking this over for a couple months, I have elected to include a copy of u0Launcher, but NOT unc0ver itself. Download the latest unc0ver IPA from the official website. u0Launcher fixes the codesigning issue that some unc0ver users experience when installing unc0ver via TrollStore. Simply install unc0ver, then install u0Launcher, then launch u0Launcher and let it work its magic. Then launch unc0ver and jailbreak freely\nLast updated: 01-24-2023\nStatus: ✅"
     },
-    "com.avangelista.CarTube": {
+    {
       "name": "CarTube",
       "bundleIdentifier": "com.avangelista.CarTube",
       "developerName": "Avangelista",
@@ -12064,7 +12064,7 @@
       ],
       "localizedDescription": "YouTube for CarPlay, without a jailbreak. Features include no ads, skip sponsored segments via SponsorBlock, some system integrations, etc\nLast updated: 01-23-2023\nStatus: ✅"
     },
-    "com.straight-tamago.FileSwitcherX": {
+    {
       "name": "FileSwitcherX",
       "bundleIdentifier": "com.straight-tamago.FileSwitcherX",
       "developerName": "straight-tamago",
@@ -12136,7 +12136,7 @@
       ],
       "localizedDescription": "Collection of MacDirtyCow tweaks. See app description on AppDB\nLast updated: 01-21-2023\nStatus: ✅"
     },
-    "com.google.ios.youtubemusic": {
+    {
       "name": "YTMusicUltimate",
       "bundleIdentifier": "com.google.ios.youtubemusic",
       "developerName": "",
@@ -12166,7 +12166,7 @@
       ],
       "localizedDescription": ""
     },
-    "net.sourceloc.TrollTools": {
+    {
       "name": "TrollTools",
       "bundleIdentifier": "net.sourceloc.TrollTools",
       "developerName": "sourcelocation",
@@ -12189,7 +12189,7 @@
       ],
       "localizedDescription": "In short, an alternative to Mugunghwa. Use this if the other one gives you issues, and vice versa\nLast updated: 01-04-2023\nStatus: ✅"
     },
-    "com.dramaflix.co": {
+    {
       "name": "DramaFlix",
       "bundleIdentifier": "com.dramaflix.co",
       "developerName": "N/A",
@@ -12205,7 +12205,7 @@
       ],
       "localizedDescription": "Movie app, same as HDO Play but also slightly updated\nLast updated: 01-03-2023\nStatus: ⚠️ ❔"
     },
-    "co.iinvent.whounfollowed": {
+    {
       "name": "FindUnfollow",
       "bundleIdentifier": "co.iinvent.whounfollowed",
       "developerName": "DPixel",
@@ -12221,7 +12221,7 @@
       ],
       "localizedDescription": "Twitter followers manager. Know who unfollowed/blocked, track new followers, and a few other stats\nLast updated: 01-03-2023\nStatus: ❌"
     },
-    "io.hex36.TrollMods": {
+    {
       "name": "TrollMods",
       "bundleIdentifier": "io.hex36.TrollMods",
       "developerName": "aethercot",
@@ -12258,7 +12258,7 @@
       ],
       "localizedDescription": "A collection of mods, based on the MacDirtyCow exploit, between iOS 15-16.1.2. Current mods include TrollLock by haxi0 and TrollFX by aethercot\nLast updated: 01-03-2023\nStatus: ❌"
     },
-    "com.dpixel.chatgpt": {
+    {
       "name": "DPixelGPT",
       "bundleIdentifier": "com.dpixel.chatgpt",
       "developerName": "DPixel",
@@ -12274,7 +12274,7 @@
       ],
       "localizedDescription": "ChatGPT, without some of the UI glitches in the one I posted earlier, with a slightly more up-to-date ChatGPT. Create your own account. You only get a limited number of questions per hour, so using one account between multiple people will just be an inconvenience\nLast updated: 12-29-2022\nStatus: ❌"
     },
-    "com.tikwipe.tikwipe": {
+    {
       "name": "TikWipe",
       "bundleIdentifier": "com.tikwipe.tikwipe",
       "developerName": "DPixel",
@@ -12290,7 +12290,7 @@
       ],
       "localizedDescription": "Injected with Satella. TikTok video downloader (not photos). Click purchase at the end of the slideshow\nLast updated: 12-29-2022\nStatus: ⚠️"
     },
-    "org.haxi0.TrollLock": {
+    {
       "name": "TrollLockReborn",
       "bundleIdentifier": "org.haxi0.TrollLock",
       "developerName": "haxi0",
@@ -12306,7 +12306,7 @@
       ],
       "localizedDescription": "TrollLock, for iOS 15-16.1. This may still work if sideloaded, but do so at your own risk. Keep in mind, this app is currently set as a pre-release on the dev's GitHub\nLast updated: 12-25-2022\nStatus: ✅"
     },
-    "au.com.topapps.ym8": {
+    {
       "name": "AnyVideoSaver",
       "bundleIdentifier": "au.com.topapps.ym8",
       "developerName": "DPixel",
@@ -12322,7 +12322,7 @@
       ],
       "localizedDescription": "Any Video Saver, with premium enabled. Use the same tutorial linked in Ketsu's description to restore premium, using au.com.topapps.ym8.adbk in releases\nLast updated: 12-22-2022\nStatus: ⚠️"
     },
-    "Lilliana.Violyn": {
+    {
       "name": "Violyn",
       "bundleIdentifier": "Lilliana.Violyn",
       "developerName": "CyPwn IPA Library",
@@ -12345,7 +12345,7 @@
       ],
       "localizedDescription": "App that lets you browse CyPwn's database of tweaak debs, including old versions and removed tweaks\nLast updated: 12-17-2022\nStatus: ✅"
     },
-    "rn.notes.best": {
+    {
       "name": "AsTools",
       "bundleIdentifier": "rn.notes.best",
       "developerName": "N/A",
@@ -12361,7 +12361,7 @@
       ],
       "localizedDescription": "I can only verify that this works with TrollStore. Also, the entire app is in Chinese. Chinese app store, lets you download and install apps such as Douyin (Chinese TikTok), as if they were from the App Store. No certificates, no Apple ID, none of that. It just installs, and it works\nLast updated: 12-11-2022\nStatus: ❌"
     },
-    "com.michaelclay.BackTracks": {
+    {
       "name": "PlayTally",
       "bundleIdentifier": "com.michaelclay.BackTracks",
       "developerName": "N/A",
@@ -12377,7 +12377,7 @@
       ],
       "localizedDescription": "Compatibility with TrollStore is limited, and it frequently experiences crashes with newer versions. As a result, I am considering its removal.\nLast updated: 12-08-2022\nStatus: ❌"
     },
-    "com.pandora": {
+    {
       "name": "Pandolife",
       "bundleIdentifier": "com.pandora",
       "developerName": "AppDB",
@@ -12393,7 +12393,7 @@
       ],
       "localizedDescription": "Pandora, injected with Pandolife\nLast updated: 12-04-2022\nStatus: ✅"
     },
-    "appcake2.iphonecake.com": {
+    {
       "name": "AppCake",
       "bundleIdentifier": "appcake2.iphonecake.com",
       "developerName": "CyPwn IPA Library",
@@ -12416,7 +12416,7 @@
       ],
       "localizedDescription": "iOS app for iPhoneCake, Newer UI, supports dark mode, slightly more user-friendly, less search results than AppCake v6.1.3. Note: I merged AppCake 6/7 into one description field.\nLast updated: 12-01-2022\nStatus: ✅"
     },
-    "net.sourceloc.AirTroller": {
+    {
       "name": "AirTroller",
       "bundleIdentifier": "net.sourceloc.AirTroller",
       "developerName": "sourcelocation",
@@ -12446,7 +12446,7 @@
       ],
       "localizedDescription": "Since spammers like this are popular, and I already expect multiple people to ask me this question, no, this will not work if you sideload it. You need to install via TrollStore. There is a fork for iOS 12 users here. That being said, enjoy the reincarnation of TrollDrop!\nLast updated: 11-27-2022\nStatus: ✅"
     },
-    "com.cpdigitaldarkroom.bundlr": {
+    {
       "name": "Bundlr",
       "bundleIdentifier": "com.cpdigitaldarkroom.bundlr",
       "developerName": "CyPwn IPA Library",
@@ -12462,7 +12462,7 @@
       ],
       "localizedDescription": "App to quickly search up and copy bundleID's from App Store apps.\nLast updated: 11-22-2022\nStatus: ✅"
     },
-    "com.simplycode.PostBox-Pocket": {
+    {
       "name": "PostboxPocket",
       "bundleIdentifier": "com.simplycode.PostBox-Pocket",
       "developerName": "N/A",
@@ -12478,7 +12478,7 @@
       ],
       "localizedDescription": "App Store version. App that lets you browse/add repos and download tweaks to install with your desired package manager\nLast updated: 11-15-2022\nStatus: ⚠️"
     },
-    "com.serena.santander": {
+    {
       "name": "Santander",
       "bundleIdentifier": "com.serena.santander",
       "developerName": "CyPwn IPA Library",
@@ -12494,7 +12494,7 @@
       ],
       "localizedDescription": "Alternative file manager to Filza.\nLast updated: 11-14-2022\nStatus: ✅"
     },
-    "org.haxi0.InstaSpring": {
+    {
       "name": "InstaSpring",
       "bundleIdentifier": "org.haxi0.InstaSpring",
       "developerName": "haxi0",
@@ -12510,7 +12510,7 @@
       ],
       "localizedDescription": "App that instantly respring your phone\nLast updated: 11-12-2022\nStatus: ✅"
     },
-    "org.haxi0.Reporizator": {
+    {
       "name": "Reporizator",
       "bundleIdentifier": "org.haxi0.Reporizator",
       "developerName": "haxi0",
@@ -12526,7 +12526,7 @@
       ],
       "localizedDescription": "App to add repos to your favorite package managers. Compatible with iOS 15+\nLast updated: 11-12-2022\nStatus: ✅"
     },
-    "com.opa334.trollnonce": {
+    {
       "name": "TrollNonce",
       "bundleIdentifier": "com.opa334.trollnonce",
       "developerName": "opa334",
@@ -12556,7 +12556,7 @@
       ],
       "localizedDescription": "Nonce setter for jailed devices\nLast updated: 11-12-2022\nStatus: ✅"
     },
-    "com.cokepokes.AppStorePlus": {
+    {
       "name": "AppStorePlusPlus",
       "bundleIdentifier": "com.cokepokes.AppStorePlus",
       "developerName": "CokePokes",
@@ -12572,7 +12572,7 @@
       ],
       "localizedDescription": "CokePokes' AppStore++ for TrollStore! Upgrade/downgrade App Store apps\nLast updated: 01-29-2023\nStatus: ✅"
     },
-    "uk.co.codingcorner.iFont": {
+    {
       "name": "iFont",
       "bundleIdentifier": "uk.co.codingcorner.iFont",
       "developerName": "N/A",
@@ -12588,7 +12588,7 @@
       ],
       "localizedDescription": "iFont for iOS 14.x. Personally decrypted for anyone who runs into the \"Minimum iOS x required\" banner in the App Store\nLast updated: 11-10-2022\nStatus: ⚠️"
     },
-    "me.soongyu.mugunghwautil": {
+    {
       "name": "Mugunghwa",
       "bundleIdentifier": "me.soongyu.mugunghwautil",
       "developerName": "s8ngyu",
@@ -12611,7 +12611,7 @@
       ],
       "localizedDescription": "App/passcode/badge theming for jailed devices via TrollStore\nLast updated: 10-28-2022\nStatus: ✅"
     },
-    "com.pt.playdiary": {
+    {
       "name": "PlayDiary",
       "bundleIdentifier": "com.pt.playdiary",
       "developerName": "AppDB",
@@ -12627,7 +12627,7 @@
       ],
       "localizedDescription": "HDO Play's catalog under a slightly different UI. See app description for HDO Play\nLast updated: 11-10-2022\nStatus: ⚠️"
     },
-    "com.rileytestut.Clip": {
+    {
       "name": "Clip",
       "bundleIdentifier": "com.rileytestut.Clip",
       "developerName": "CyPwn IPA Library",
@@ -12643,7 +12643,7 @@
       ],
       "localizedDescription": "Clipboard manager for iOS\nLast updated: 10-17-2022\nStatus: ✅"
     },
-    "me.midnightchips.harpy-reloaded": {
+    {
       "name": "HarpyReloaded",
       "bundleIdentifier": "me.midnightchips.harpy-reloaded",
       "developerName": "CyPwn IPA Library",
@@ -12659,7 +12659,7 @@
       ],
       "localizedDescription": "Note: There are people that report this working, and people that report it broken. It's hit-and-miss at best. App that lets you block internet to other devices on the same network as yours\nLast updated: 10-17-2022\nStatus: ✅"
     },
-    "com.hdoplay.apt": {
+    {
       "name": "HDOPlay",
       "bundleIdentifier": "com.hdoplay.apt",
       "developerName": "N/A",
@@ -12675,7 +12675,7 @@
       ],
       "localizedDescription": "Released on the App Store for a short while, this app is one of the best streamers for TV shows and movies from Hulu, Netflix, Prime Video, Disney+, and more, even including some popular anime titles\nLast updated: 09-03-2022\nStatus: ⚠️"
     },
-    "com.hyperixa.IPSW": {
+    {
       "name": "IPSW",
       "bundleIdentifier": "com.hyperixa.IPSW",
       "developerName": "N/A",
@@ -12691,7 +12691,7 @@
       ],
       "localizedDescription": "The app that Hyperixa/TitanD3v tried to bury. Basically just an iOS firmware sign status checker with a nice UI\nLast updated: 10-17-2022\nStatus: ⚠️ ❔"
     },
-    "luca.MobileTSS": {
+    {
       "name": "MobileTSS",
       "bundleIdentifier": "luca.MobileTSS",
       "developerName": "CyPwn IPA Library / lucaIz-ldx",
@@ -12707,7 +12707,7 @@
       ],
       "localizedDescription": "Shsh blobs saver. May not work on iOS 15+\nLast updated: 10-17-2022\nStatus: ✅"
     },
-    "com.powen.ModMyIPA": {
+    {
       "name": "ModMyIPA",
       "bundleIdentifier": "com.powen.ModMyIPA",
       "developerName": "powenn",
@@ -12723,7 +12723,7 @@
       ],
       "localizedDescription": "App info (name, bundleID, etc) editor, usually used if installing duplicates of the same app\nLast updated: 10-28-2022\nStatus: ✅"
     },
-    "com.julioverne.netflixchecker": {
+    {
       "name": "NetflixChecker",
       "bundleIdentifier": "com.julioverne.netflixchecker",
       "developerName": "CyPwn IPA Library",
@@ -12739,7 +12739,7 @@
       ],
       "localizedDescription": "App that checks a username-password combination, or list of them, against Netflix's servers\nLast updated: 11-10-2022\nStatus: ✅"
     },
-    "com.haoict.ResolutionSetterSwift": {
+    {
       "name": "ResolutionSetter",
       "bundleIdentifier": "com.haoict.ResolutionSetterSwift",
       "developerName": "haoict",
@@ -12755,7 +12755,7 @@
       ],
       "localizedDescription": "Custom resolution setter for jailed devices\nLast updated: 10-17-2022\nStatus: ✅"
     },
-    "com.AppInstalleriOS.TrollSign": {
+    {
       "name": "TrollSign",
       "bundleIdentifier": "com.AppInstalleriOS.TrollSign",
       "developerName": "CyPwn IPA Library",
@@ -12771,7 +12771,7 @@
       ],
       "localizedDescription": "Modify an app's entitlements before installing\nLast updated: 11-09-2022\nStatus: ✅"
     },
-    "com.trst.storek": {
+    {
       "name": "TSStore",
       "bundleIdentifier": "com.trst.storek",
       "developerName": "CyPwn IPA Library",
@@ -12787,7 +12787,7 @@
       ],
       "localizedDescription": "Another app that gathers some Trollstore compatible apps\nLast updated: 10-17-2022\nStatus: ✅"
     },
-    "com.ubercab.UberEats": {
+    {
       "name": "UberEats",
       "bundleIdentifier": "com.ubercab.UberEats",
       "developerName": "N/A",
@@ -12803,7 +12803,7 @@
       ],
       "localizedDescription": "Uber Eats for iOS 14.x. Personally decrypted for anyone who runs into the \"Minimum iOS x required\" banner in the App Store\nLast updated: 10-26-2022\nStatus: ⚠️"
     },
-    "com.google.ios.youtube": {
+    {
       "name": "uYouPlus",
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "",
@@ -12819,5 +12819,5 @@
       ],
       "localizedDescription": ""
     }
-  }
+  ]
 }
