@@ -16253,29 +16253,6 @@
       "localizedDescription": "Pandora, injected with Pandolife\nLast updated: 12-04-2022\nStatus: ✅"
     },
     {
-      "name": "VSCOLion",
-      "bundleIdentifier": "co.visualsupply.cam84",
-      "developerName": "ipahost / KZStore*",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.visualsupply.cam.png",
-      "versions": [
-        {
-          "version": "1.4-282.0",
-          "date": "2022-12-03",
-          "size": 114260647,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-03-2022/VSCOLion-1.4-282.0.ipa",
-          "localizedDescription": "VSCO, injected with the tweak Lion by Michael Lema. Allows for saving pretty much all media by long-pressing on them. Few things to note: If you're jailbroken, fully disable tweak injection into VSCO using Choicy. Signing in through Apple and Google don't work (clicking Apple does nothing, clicking Google causes a crash). If you need to sign in this way, create a backup of VSCO from the App Store using either Apps Manager or Crane, depending on if your phone is jailbroken or not, while signed in before installing this ipa through TrollStore. This version also does not include dark mode. All other features should be the same\nLast updated: 12-03-2022\nStatus: ⚠️"
-        },
-        {
-          "version": "1.4-211.0",
-          "date": "2022-11-22",
-          "size": 96884485,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-22-2022/VSCOLion-1.4-211.0.ipa",
-          "localizedDescription": "VSCO, injected with the tweak Lion by Michael Lema. Allows for saving pretty much all media by long-pressing on them. Few things to note: If you're jailbroken, fully disable tweak injection into VSCO using Choicy. Signing in through Apple and Google don't work (clicking Apple does nothing, clicking Google causes a crash). If you need to sign in this way, create a backup of VSCO from the App Store using either Apps Manager or Crane, depending on if your phone is jailbroken or not, while signed in before installing this ipa through TrollStore. This version also does not include dark mode. All other features should be the same\nLast updated: 12-03-2022\nStatus: ⚠️"
-        }
-      ],
-      "localizedDescription": "VSCO, injected with the tweak Lion by Michael Lema. Allows for saving pretty much all media by long-pressing on them. Few things to note: If you're jailbroken, fully disable tweak injection into VSCO using Choicy. Signing in through Apple and Google don't work (clicking Apple does nothing, clicking Google causes a crash). If you need to sign in this way, create a backup of VSCO from the App Store using either Apps Manager or Crane, depending on if your phone is jailbroken or not, while signed in before installing this ipa through TrollStore. This version also does not include dark mode. All other features should be the same\nLast updated: 12-03-2022\nStatus: ⚠️"
-    },
-    {
       "name": "AppCake",
       "bundleIdentifier": "appcake2.iphonecake.com57",
       "developerName": "CyPwn IPA Library",
